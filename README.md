@@ -30,7 +30,7 @@ Contact:
   * Chen, Jie, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li. "*Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework*." **CVPR 2018** [[paper](https://arxiv.org/abs/1803.10433)]  [[Dr. Jie Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)]
   * *Robust Video Content Alignment and Compensation for Clear Vision Through the Rain* [[ArXiv](https://arxiv.org/abs/1804.09555)](*tips: I guess this is the extended journal version*)
 
-* RNN (*I'm not sure*)
+* RNN
     * Liu, Jiaying, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [paper TBA][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
   
 * Attentive GAN
@@ -38,7 +38,7 @@ Contact:
 [[Dr. Rui Qian's homepage (code TBA)](https://rui1996.github.io/)]  [[project](https://rui1996.github.io/raindrop/raindrop_removal.html)]
   (*tips: this research focuses on reducing the effets form the adherent rain drops instead of rain streaks removal*)
 
-* Multi-stream Dense Network 
+* Multi-stream Dense Network (**DID-MDN**)
   * Zhang, He, and Vishal M. Patel. "*Density-aware Single Image De-raining using a Multi-stream Dense Network*." **CVPR 2018** [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]  [[Dr. He Zhang's homepage](https://sites.google.com/site/hezhangsprinter/)] 
 
 * Multiscale CSC
