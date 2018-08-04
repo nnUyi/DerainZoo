@@ -69,7 +69,6 @@ Contact:
   * A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.html)]
   * Fastderain: A novel video rain streak removal method using directional gradient priors. [[paper](https://arxiv.org/abs/1803.07487)][[code](https://github.com/TaiXiangJiang/FastDeRain)]
 
-
 * Deep detail network (DDN) (Fu *et al.* CVPR 2017 IEEE TIP 2017)
   * Removing rain from single images via a deep detail network. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[code](https://xueyangfu.github.io/projects/cvpr2017.html)]
  
