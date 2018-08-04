@@ -65,9 +65,9 @@ Contact:
 * Transformedlow-rank (Chang et al. ICCV 2017)
   * Transformed Low-Rank Model for Line Pattern Noise Removal. [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Chang_Transformed_Low-Rank_Model_ICCV_2017_paper.html)]
 
-* `Tensor based method (FastDeRain) (Jiang et al. CVPR 2017 arXiv 2018)`
-  * `A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors.` [[`paper`](http://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.html)]
-  * `Fastderain: A novel video rain streak removal method using directional gradient priors.` [[`paper`](https://arxiv.org/abs/1803.07487)][[`code`](https://github.com/TaiXiangJiang/FastDeRain)] 
+* Tensor based method (FastDeRain) (Jiang et al. CVPR 2017 arXiv 2018)
+  * A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.html)]
+  * Fastderain: A novel video rain streak removal method using directional gradient priors. [[paper](https://arxiv.org/abs/1803.07487)][[code](https://github.com/TaiXiangJiang/FastDeRain)]
 
 
 * Deep detail network (DDN) (Fu *et al.* CVPR 2017 IEEE TIP 2017)
