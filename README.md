@@ -1,5 +1,5 @@
 # DerainSOTA
-A repo for collecting deraining methods
+   * A repo for collecting deraining methods. Papers and codes are attached.
 
 state-of-the-art derain methods (video & single image)
 ==
@@ -11,6 +11,9 @@ Contact:
 
 2018
 --
+* Removing rain based on a Cycle Generative Adversarial Network
+   * Removing rain based on a Cycle Generative Adversarial Network [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397790)]
+
 *  Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining
    * Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining [[ArXiv](https://arxiv.org/pdf/1807.05698.pdf)]  [[github.io](https://xialipku.github.io/RESCAN/)]
 
