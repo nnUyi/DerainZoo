@@ -11,6 +11,9 @@ Contact:
 
 2018
 --
+* Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining
+   * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining [[paper](https://arxiv.org/pdf/1808.01491.pdf)]
+
 * Removing rain based on a Cycle Generative Adversarial Network
    * Removing rain based on a Cycle Generative Adversarial Network [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397790)]
 
