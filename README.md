@@ -11,13 +11,13 @@ Contact:
 
 2018
 --
-* Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining
+* Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining (2018 ACMMM)
    * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining [[paper](https://arxiv.org/pdf/1808.01491.pdf)]
 
-* Removing rain based on a Cycle Generative Adversarial Network
+* Removing rain based on a Cycle Generative Adversarial Network (2018 ICIEA)
    * Removing rain based on a Cycle Generative Adversarial Network [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397790)]
 
-*  Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining
+*  Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining (2018 ECCV)
    * Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining [[ArXiv](https://arxiv.org/pdf/1807.05698.pdf)]  [[github.io](https://xialipku.github.io/RESCAN/)]
 
 *  Lightweight Pyramid Networks 
