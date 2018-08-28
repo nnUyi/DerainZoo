@@ -11,6 +11,12 @@ Contact:
 
 2018
 --
+* Rain Streak Removal for Single Image via Kernel Guided CNN
+   * Rain Streak Removal for Single Image via Kernel Guided CNN [[paper](https://arxiv.org/pdf/1808.08545.pdf)]
+
+* Physics-Based Generative Adversarial Models for Image Restoration and Beyond
+   * Physics-Based Generative Adversarial Models for Image Restoration and Beyond [[paper](https://arxiv.org/pdf/1808.00605.pdf)][[code](https://sites.google.com/site/jspanhomepage/physicsgan/)]
+
 * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining (2018 ACMMM)
    * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining [[paper](https://arxiv.org/pdf/1808.01491.pdf)]
 
