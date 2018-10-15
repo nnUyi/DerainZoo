@@ -29,7 +29,7 @@ Contact:
 *  Lightweight Pyramid Networks 
    * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." **ArXiv** preprint arXiv:1805.06173 .[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Xueyang Fu's homepage](https://xueyangfu.github.io/)]
   
-* Residual-Guide feature fusion network
+* Residual-Guide feature fusion network (2018 ACMMM)
   * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "*Residual-Guide Feature Fusion Network for Single Image Deraining*." **ArXiv** preprint arXiv:1804.07493 .[[Arxiv](https://arxiv.org/abs/1804.07493)]
   
 * Dual CNN (structure and detail) 
