@@ -18,7 +18,7 @@ Contact:
    * Physics-Based Generative Adversarial Models for Image Restoration and Beyond [[paper](https://arxiv.org/pdf/1808.00605.pdf)][[code](https://sites.google.com/site/jspanhomepage/physicsgan/)]
 
 * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining (2018 ACMMM)
-   * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining [[paper](https://arxiv.org/pdf/1808.01491.pdf)]
+   * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining [[paper](https://arxiv.org/pdf/1808.01491.pdf)][[code](https://github.com/AlexHex7/NLEDN)]
 
 * Removing rain based on a Cycle Generative Adversarial Network (2018 ICIEA)
    * Removing rain based on a Cycle Generative Adversarial Network [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397790)]
