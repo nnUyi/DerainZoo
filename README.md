@@ -7,7 +7,7 @@ Contact:
 
 |Name|Tai-Xiang Jiang|
 |---|---
-|E-mail|computerscienceyyz@163.com
+|E-mail|yzyang17@fudan.edu.cn
 
 2018
 --
