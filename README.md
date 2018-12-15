@@ -44,7 +44,7 @@ Contact:
   
 * Attentive GAN
     * Qian, Rui, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu. "*Attentive Generative Adversarial Network for Raindrop Removal from a Single Image*." **CVPR 2018 spotlight**  [[paper](https://arxiv.org/abs/1711.10098)]
-[[Dr. Rui Qian's homepage (code TBA)](https://rui1996.github.io/)]  [[project](https://rui1996.github.io/raindrop/raindrop_removal.html)]
+[[Dr. Rui Qian's homepage (code TBA)](https://rui1996.github.io/)]  [[project](https://rui1996.github.io/raindrop/raindrop_removal.html)][[reimplement code](https://github.com/MaybeShewill-CV/attentive-gan-derainnet)][[author code](https://github.com/rui1996/DeRaindrop)]
   (*tips: this research focuses on reducing the effets form the adherent rain drops instead of rain streaks removal*)
 
 * Multi-stream Dense Network (**DID-MDN**)
