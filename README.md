@@ -11,6 +11,13 @@ Contact:
 
 2018
 --
+
+* Rain Removal By Image Quasi-Sparsity Priors
+   * Rain Removal By Image Quasi-Sparsity Priors [[arxiv paper](https://arxiv.org/pdf/1812.08348.pdf)]
+
+* Removing rain streaks by a linear model
+   * Removing rain streaks by a linear model [[arxiv paper](https://arxiv.org/pdf/1812.07870.pdf)]
+
 * Rain Streak Removal for Single Image via Kernel Guided CNN
    * Rain Streak Removal for Single Image via Kernel Guided CNN [[paper](https://arxiv.org/pdf/1808.08545.pdf)]
 
