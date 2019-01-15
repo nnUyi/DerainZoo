@@ -5,24 +5,44 @@ state-of-the-art derain methods (video & single image)
 ==
 Contact: 
 
-|Name|Tai-Xiang Jiang|
+|Name|Youzhao Yang|
 |---|---
 |E-mail|yzyang17@fudan.edu.cn
+
+2019
+--
+
+* Loading....
 
 2018
 --
 
-* Rain Removal By Image Quasi-Sparsity Priors
-   * Rain Removal By Image Quasi-Sparsity Priors [[arxiv paper](https://arxiv.org/pdf/1812.08348.pdf)]
+* Rain Removal By Image Quasi-Sparsity Priors (Arxiv)
+   * Rain Removal By Image Quasi-Sparsity Priors [[paper](https://arxiv.org/pdf/1812.08348.pdf)]
 
-* Removing rain streaks by a linear model
-   * Removing rain streaks by a linear model [[arxiv paper](https://arxiv.org/pdf/1812.07870.pdf)]
+* Removing rain streaks by a linear model (Arxiv)
+   * Removing rain streaks by a linear model [[paper](https://arxiv.org/pdf/1812.07870.pdf)]
 
-* Rain Streak Removal for Single Image via Kernel Guided CNN
+* Rain Streak Removal for Single Image via Kernel Guided CNN (Arxiv)
    * Rain Streak Removal for Single Image via Kernel Guided CNN [[paper](https://arxiv.org/pdf/1808.08545.pdf)]
 
 * Physics-Based Generative Adversarial Models for Image Restoration and Beyond
    * Physics-Based Generative Adversarial Models for Image Restoration and Beyond [[paper](https://arxiv.org/pdf/1808.00605.pdf)][[code](https://sites.google.com/site/jspanhomepage/physicsgan/)]
+
+* Gated Context Aggregation Network for Image Dehazing and Deraining (2018 WACV)
+  * Chen et. al. Gated Context Aggregation Network for Image Dehazing and Deraining [[paper](https://arxiv.org/pdf/1811.08747.pdf)]
+
+* Unsupervised Single Image Deraining with Self-supervised Constraints (Arxiv)
+  * Jin et. al. Unsupervised Single Image Deraining with Self-supervised Constraints [[paper](https://arxiv.org/pdf/1811.08575.pdf)]
+
+* Self-Refining Deep Symmetry Enhanced Network for Rain Removal (Arxiv)
+  * Ye et.al. Self-Refining Deep Symmetry Enhanced Network for Rain Removal [[paper](https://arxiv.org/pdf/1811.04761.pdf)]
+  
+* A Deep Tree-Structured Fusion Model for Single Image Deraining (Arxiv)
+  * Fu et. al. A Deep Tree-Structured Fusion Model for Single Image Deraining [[paper](https://arxiv.org/pdf/1811.08632.pdf)]
+
+* Residual-Guide feature fusion network (2018 ACMMM)
+  * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "*Residual-Guide Feature Fusion Network for Single Image Deraining*." **ArXiv** preprint arXiv:1804.07493 .[[Arxiv](https://arxiv.org/abs/1804.07493)]
 
 * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining (2018 ACMMM)
    * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining [[paper](https://arxiv.org/pdf/1808.01491.pdf)][[code](https://github.com/AlexHex7/NLEDN)]
@@ -35,10 +55,7 @@ Contact:
 
 *  Lightweight Pyramid Networks 
    * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." **ArXiv** preprint arXiv:1805.06173 .[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Xueyang Fu's homepage](https://xueyangfu.github.io/)]
-  
-* Residual-Guide feature fusion network (2018 ACMMM)
-  * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "*Residual-Guide Feature Fusion Network for Single Image Deraining*." **ArXiv** preprint arXiv:1804.07493 .[[Arxiv](https://arxiv.org/abs/1804.07493)]
-  
+    
 * Dual CNN (structure and detail) 
   * Jinshan Pan, Sifei Liu, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "*Learning Dual Convolutional Neural Networks for Low-Level Vision*." **CVPR 2018**. [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
 
