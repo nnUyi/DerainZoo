@@ -18,13 +18,13 @@ Contact:
 --
 
 * Rain Removal By Image Quasi-Sparsity Priors (Arxiv)
-   * Rain Removal By Image Quasi-Sparsity Priors [[paper](https://arxiv.org/pdf/1812.08348.pdf)]
+   * Wang et. al. Rain Removal By Image Quasi-Sparsity Priors [[paper](https://arxiv.org/pdf/1812.08348.pdf)]
 
 * Removing rain streaks by a linear model (Arxiv)
-   * Removing rain streaks by a linear model [[paper](https://arxiv.org/pdf/1812.07870.pdf)]
+   * Wang et. al. Removing rain streaks by a linear model [[paper](https://arxiv.org/pdf/1812.07870.pdf)]
 
 * Rain Streak Removal for Single Image via Kernel Guided CNN (Arxiv)
-   * Rain Streak Removal for Single Image via Kernel Guided CNN [[paper](https://arxiv.org/pdf/1808.08545.pdf)]
+   * Deng et. al. Rain Streak Removal for Single Image via Kernel Guided CNN [[paper](https://arxiv.org/pdf/1808.08545.pdf)]
 
 * Physics-Based Generative Adversarial Models for Image Restoration and Beyond
    * Physics-Based Generative Adversarial Models for Image Restoration and Beyond [[paper](https://arxiv.org/pdf/1808.00605.pdf)][[code](https://sites.google.com/site/jspanhomepage/physicsgan/)]
@@ -36,7 +36,7 @@ Contact:
   * Jin et. al. Unsupervised Single Image Deraining with Self-supervised Constraints [[paper](https://arxiv.org/pdf/1811.08575.pdf)]
 
 * Self-Refining Deep Symmetry Enhanced Network for Rain Removal (Arxiv)
-  * Ye et.al. Self-Refining Deep Symmetry Enhanced Network for Rain Removal [[paper](https://arxiv.org/pdf/1811.04761.pdf)]
+  * Ye et. al. Self-Refining Deep Symmetry Enhanced Network for Rain Removal [[paper](https://arxiv.org/pdf/1811.04761.pdf)]
   
 * A Deep Tree-Structured Fusion Model for Single Image Deraining (Arxiv)
   * Fu et. al. A Deep Tree-Structured Fusion Model for Single Image Deraining [[paper](https://arxiv.org/pdf/1811.08632.pdf)]
