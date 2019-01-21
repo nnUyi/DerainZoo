@@ -12,18 +12,19 @@ Contact:
 2019
 --
 
-* Loading....
+* Morphological Networks for Image De-raining (Arxiv2019)
+   * Mondal et al. Morphological Networks for Image De-raining [[paper](https://arxiv.org/pdf/1901.02411.pdf)]
 
 2018
 --
 
-* Rain Removal By Image Quasi-Sparsity Priors (Arxiv)
+* Rain Removal By Image Quasi-Sparsity Priors (Arxiv2018)
    * Wang et. al. Rain Removal By Image Quasi-Sparsity Priors [[paper](https://arxiv.org/pdf/1812.08348.pdf)]
 
-* Removing rain streaks by a linear model (Arxiv)
+* Removing rain streaks by a linear model (Arxiv2018)
    * Wang et. al. Removing rain streaks by a linear model [[paper](https://arxiv.org/pdf/1812.07870.pdf)]
 
-* Rain Streak Removal for Single Image via Kernel Guided CNN (Arxiv)
+* Rain Streak Removal for Single Image via Kernel Guided CNN (Arxiv2018)
    * Deng et. al. Rain Streak Removal for Single Image via Kernel Guided CNN [[paper](https://arxiv.org/pdf/1808.08545.pdf)]
 
 * Physics-Based Generative Adversarial Models for Image Restoration and Beyond
@@ -32,13 +33,13 @@ Contact:
 * Gated Context Aggregation Network for Image Dehazing and Deraining (2018 WACV)
   * Chen et. al. Gated Context Aggregation Network for Image Dehazing and Deraining [[paper](https://arxiv.org/pdf/1811.08747.pdf)]
 
-* Unsupervised Single Image Deraining with Self-supervised Constraints (Arxiv)
+* Unsupervised Single Image Deraining with Self-supervised Constraints (Arxiv2018)
   * Jin et. al. Unsupervised Single Image Deraining with Self-supervised Constraints [[paper](https://arxiv.org/pdf/1811.08575.pdf)]
 
-* Self-Refining Deep Symmetry Enhanced Network for Rain Removal (Arxiv)
+* Self-Refining Deep Symmetry Enhanced Network for Rain Removal (Arxiv2018)
   * Ye et. al. Self-Refining Deep Symmetry Enhanced Network for Rain Removal [[paper](https://arxiv.org/pdf/1811.04761.pdf)]
   
-* A Deep Tree-Structured Fusion Model for Single Image Deraining (Arxiv)
+* A Deep Tree-Structured Fusion Model for Single Image Deraining (Arxiv2018)
   * Fu et. al. A Deep Tree-Structured Fusion Model for Single Image Deraining [[paper](https://arxiv.org/pdf/1811.08632.pdf)]
 
 * Residual-Guide feature fusion network (2018 ACMMM)
