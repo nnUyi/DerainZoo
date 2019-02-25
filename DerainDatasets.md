@@ -1,5 +1,5 @@
 # DerainDatasets
-  * Some synthetic raining datasets for single image deraining are collected here.
+  * Some synthetic rainy datasets for single image deraining are collected here.
 
 # Datasets
 ## Single Image
