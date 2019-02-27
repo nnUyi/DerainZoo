@@ -11,7 +11,7 @@ Contact:
 
 2019
 --
-*  PRNet (Arxiv2019)
+*  PReNet (Arxiv2019)
    * Ren rt al. Progressive Image Deraining Networks: A Better and Simpler Baseline [[paper](https://arxiv.org/pdf/1901.09221.pdf)]
 
 *  RR-GAN (2019 AAAI)
