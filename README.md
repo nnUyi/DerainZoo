@@ -36,7 +36,7 @@ Contact:
    * Physics-Based Generative Adversarial Models for Image Restoration and Beyond [[paper](https://arxiv.org/pdf/1808.00605.pdf)][[code](https://sites.google.com/site/jspanhomepage/physicsgan/)]
 
 * Gated Context Aggregation Network for Image Dehazing and Deraining (2018 WACV)
-  * Chen et. al. Gated Context Aggregation Network for Image Dehazing and Deraining [[paper](https://arxiv.org/pdf/1811.08747.pdf)]
+  * Chen et. al. Gated Context Aggregation Network for Image Dehazing and Deraining [[paper](https://arxiv.org/pdf/1811.08747.pdf)][[code](https://github.com/cddlyf/GCANet)]
 
 * Unsupervised Single Image Deraining with Self-supervised Constraints (Arxiv2018)
   * Jin et. al. Unsupervised Single Image Deraining with Self-supervised Constraints [[paper](https://arxiv.org/pdf/1811.08575.pdf)]
