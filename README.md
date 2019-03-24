@@ -11,6 +11,9 @@ Contact:
 
 2019
 --
+* Single Image Deraining: A Comprehensive Benchmark Analysis (Arxiv2019)
+   * Siyuan Li et al. Single Image Deraining: A Comprehensive Benchmark Analysis [[paper](https://arxiv.org/pdf/1903.08558.pdf)][[code](https://github.com/lsy17096535/Single-Image-Deraining)]
+
 *  PReNet (Arxiv2019)
    * Ren rt al. Progressive Image Deraining Networks: A Better and Simpler Baseline [[paper](https://arxiv.org/pdf/1901.09221.pdf)][[code](https://github.com/csdwren/PReNet)]
 
