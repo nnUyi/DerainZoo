@@ -73,7 +73,7 @@ Contact:
   * *Robust Video Content Alignment and Compensation for Clear Vision Through the Rain* [[ArXiv](https://arxiv.org/abs/1804.09555)](*tips: I guess this is the extended journal version*)
 
 * RNN
-    * Liu, Jiaying, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [paper TBA][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
+    * Liu, Jiaying, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)][[code](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
   
 * Attentive GAN
     * Qian, Rui, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu. "*Attentive Generative Adversarial Network for Raindrop Removal from a Single Image*." **CVPR 2018 spotlight**  [[paper](https://arxiv.org/abs/1711.10098)]
