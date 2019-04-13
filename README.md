@@ -11,6 +11,9 @@ Contact:
 
 2019
 --
+* Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network (2019 ICME)
+   * Yang el al. Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network [[paper TAB](https://github.com/nnUyi/ReMAEN), [code TAB](https://github.com/nnUyi/ReMAEN)]
+
 * Single Image Deraining: A Comprehensive Benchmark Analysis (Arxiv2019)
    * Siyuan Li et al. Single Image Deraining: A Comprehensive Benchmark Analysis [[paper](https://arxiv.org/pdf/1903.08558.pdf)][[code](https://github.com/lsy17096535/Single-Image-Deraining)]
 
