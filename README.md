@@ -14,10 +14,19 @@ Contact:
 * Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network (2019 ICME)
    * Yang el al. Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network [[paper](https://github.com/nnUyi/ReMAEN/tree/master/paper)], [[code TAB](https://github.com/nnUyi/ReMAEN)]
 
-* Single Image Deraining: A Comprehensive Benchmark Analysis (Arxiv2019)
+* Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset (2019 CVPR)
+  * Wang Tianyu et al. Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset [[paper](https://arxiv.org/pdf/1904.01538.pdf)][[code](https://github.com/stevewongv/SPANet)][[github.io](https://stevewongv.github.io/derain-project.html)]
+
+* Single Image Deraining: A Comprehensive Benchmark Analysis (2019 CVPR)
    * Siyuan Li et al. Single Image Deraining: A Comprehensive Benchmark Analysis [[paper](https://arxiv.org/pdf/1903.08558.pdf)][[code](https://github.com/lsy17096535/Single-Image-Deraining)]
 
-*  PReNet (Arxiv2019)
+* Depth-attentional Features for Single-image Rain Removal (2019 CVPR)
+   * Hu Xiaowei et al. Depth-attentional Features for Single-image Rain Removal [[paper TAB]()][[code](https://github.com/xw-hu/DAF-Net)]
+
+*  Semi-supervised Transfer Learning for Image Rain Removal (2019 CVPR)
+   * Wei et al. Semi-supervised Transfer Learning for Image Rain Removal [[paper](https://arxiv.org/pdf/1807.11078.pdf)]
+
+*  PReNet (2019 CVPR)
    * Ren rt al. Progressive Image Deraining Networks: A Better and Simpler Baseline [[paper](https://arxiv.org/pdf/1901.09221.pdf)][[code](https://github.com/csdwren/PReNet)]
 
 *  RR-GAN (2019 AAAI)
@@ -54,7 +63,7 @@ Contact:
   * Fu et. al. A Deep Tree-Structured Fusion Model for Single Image Deraining [[paper](https://arxiv.org/pdf/1811.08632.pdf)]
 
 * Residual-Guide feature fusion network (2018 ACMMM)
-  * Fan, Zhiwen, Huafeng Wu, Xueyang Fu, Yue Hunag, and Xinghao Ding. "*Residual-Guide Feature Fusion Network for Single Image Deraining*." **ArXiv** preprint arXiv:1804.07493 .[[Arxiv](https://arxiv.org/abs/1804.07493)]
+  * Fan Zhiwen et al. Residual-Guide Feature Fusion Network for Single Image Deraining*. [[paper](https://arxiv.org/abs/1804.07493)]
 
 * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining (2018 ACMMM)
    * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining [[paper](https://arxiv.org/pdf/1808.01491.pdf)][[code](https://github.com/AlexHex7/NLEDN)]
@@ -63,45 +72,45 @@ Contact:
    * Removing rain based on a Cycle Generative Adversarial Network [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397790)]
 
 *  Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining (2018 ECCV)
-   * Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining [[ArXiv](https://arxiv.org/pdf/1807.05698.pdf)]  [[github.io](https://xialipku.github.io/RESCAN/)]
+   * Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining [[paper](https://arxiv.org/pdf/1807.05698.pdf)]  [[github.io](https://xialipku.github.io/RESCAN/)]
 
 *  Lightweight Pyramid Networks 
-   * Fu, Xueyang, Borong Liang, Yue Huang, Xinghao Ding, and John Paisley. "*Lightweight Pyramid Networks for Image Deraining*." **ArXiv** preprint arXiv:1805.06173 .[[ArXiv](https://arxiv.org/abs/1805.06173)]  [[Dr. Xueyang Fu's homepage](https://xueyangfu.github.io/)]
+   * Fu, Xueyang et al. Lightweight Pyramid Networks for Image Deraining. [[paper](https://arxiv.org/abs/1805.06173)]  [[Dr. Xueyang Fu's homepage](https://xueyangfu.github.io/)]
     
-* Dual CNN (structure and detail) 
-  * Jinshan Pan, Sifei Liu, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, and Ming-Hsuan Yang, "*Learning Dual Convolutional Neural Networks for Low-Level Vision*." **CVPR 2018**. [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
+* Dual CNN (structure and detail) (2018 CVPR)
+  * Jinshan Pan et al. Learning Dual Convolutional Neural Networks for Low-Level Vision [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
 
-* CNN
-  * Chen, Jie, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li. "*Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework*." **CVPR 2018** [[paper](https://arxiv.org/abs/1803.10433)]  [[Dr. Jie Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)]
-  * *Robust Video Content Alignment and Compensation for Clear Vision Through the Rain* [[ArXiv](https://arxiv.org/abs/1804.09555)](*tips: I guess this is the extended journal version*)
+* Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework
+  * Chen Jie et al. Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework [[paper](https://arxiv.org/abs/1803.10433)]  [[Dr. Jie Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)]
+  * *Robust Video Content Alignment and Compensation for Clear Vision Through the Rain* [[paper](https://arxiv.org/abs/1804.09555)](*tips: I guess this is the extended journal version*)
 
-* RNN
-    * Liu, Jiaying, Wenhan Yang, Shuai Yang, Zongming Guo. "*Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos.*" **CVPR 2018** [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)][[code](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
+* Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos (2018 CVPR)
+    * Liu Jiaying et al. Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)][[code](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
   
-* Attentive GAN
-    * Qian, Rui, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu. "*Attentive Generative Adversarial Network for Raindrop Removal from a Single Image*." **CVPR 2018 spotlight**  [[paper](https://arxiv.org/abs/1711.10098)]
-[[Dr. Rui Qian's homepage (code TBA)](https://rui1996.github.io/)]  [[project](https://rui1996.github.io/raindrop/raindrop_removal.html)] [[reimplement code](https://github.com/MaybeShewill-CV/attentive-gan-derainnet)] [[author code](https://github.com/rui1996/DeRaindrop)]
+* Attentive GAN (2018 CVPR)
+    * Qian Rui et al. Attentive Generative Adversarial Network for Raindrop Removal from a Single Image [[paper](https://arxiv.org/abs/1711.10098)]
+[[Dr. Rui Qian's homepage (code TBA)](https://rui1996.github.io/)]  [[project](https://rui1996.github.io/raindrop/raindrop_removal.html)] [[reimplement code](https://github.com/MaybeShewill-CV/attentive-gan-derainnet)] [[code](https://github.com/rui1996/DeRaindrop)]
   (*tips: this research focuses on reducing the effets form the adherent rain drops instead of rain streaks removal*)
 
-* Multi-stream Dense Network (**DID-MDN**)
-  * Zhang, He, and Vishal M. Patel. "*Density-aware Single Image De-raining using a Multi-stream Dense Network*." **CVPR 2018** [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]  [[Dr. He Zhang's homepage](https://sites.google.com/site/hezhangsprinter/)] 
+* Multi-stream Dense Network (**DID-MDN**) (2018 CVPR)
+  * Zhang He et al. Density-aware Single Image De-raining using a Multi-stream Dense Network [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]  [[Dr. He Zhang's homepage](https://sites.google.com/site/hezhangsprinter/)] 
 
-* Multiscale CSC
-    * Li, Minghan, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng. *Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding*." **CVPR 2018**[[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)] 
+* Multiscale CSC (2018 CVPR)
+    * Li Minghan et al. Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding [[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)] 
   
-* Directional global sparse
-  * Deng, Liang-Jian, Ting-Zhu Huang, Xi-Le Zhao, and Tai-Xiang Jiang. "A directional global sparse model for single image rain removal." **Applied Mathematical Modelling** 59 (2018): 662-679.  [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
+* Directional global sparse (2018 AMM)
+  * Deng Liang-Jian et al. A directional global sparse model for single image rain removal [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
  [[code](http://www.escience.cn/system/file?fileId=98760)]  [[Dr. Deng's homepage](http://www.escience.cn/people/dengliangjian/index.html)]
 (*tips: I am the last author, and your can also find the implemention in this repository*)
 
 * Decorrelate in gradient domain
-  * Du, Shuangli, Yiguang Liu, Mao Ye, Zhenyu Xu, Jie Li, and Jianguo Liu. "*Single image deraining via decorrelating the rain streaks and background scene in gradient domain*." **Pattern Recognition** 79 (2018): 303-317. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)]
+  * Du Shuangli et al. Single image deraining via decorrelating the rain streaks and background scene in gradient domain [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)]
 
-* Deep Decomposition-Composition Network (Li *et al.* ArXiv 2018)
-  * Fast Single Image Rain Removal via a Deep Decomposition-Composition Network. Li, Siyuan, Wenqi Ren, Jiawan Zhang, Jinke Yu, and Xiaojie Guo.  [[paper](https://arxiv.org/abs/1804.02688)]
+* Deep Decomposition-Composition Network (ArXiv 2018)
+  * Li Siyuan et al. Fast Single Image Rain Removal via a Deep Decomposition-Composition Network [[paper](https://arxiv.org/abs/1804.02688)]
  [[Prof. Xiaojie Guo's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)] [[Prof. Wenqi Ren's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)]
  
-* Simultaneous Fidelity and Regularization Learning (Ren *et al.* ArXiv 2018)
+* Simultaneous Fidelity and Regularization Learning (ArXiv 2018)
   * Simultaneous Fidelity and Regularization Learning for Image Restoration. [[paper](https://arxiv.org/abs/1804.04522)]
  [[Ren's homepage](https://sites.google.com/site/csrendw/home)] 
 
