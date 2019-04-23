@@ -20,13 +20,13 @@ Contact:
 * Single Image Deraining: A Comprehensive Benchmark Analysis (2019 CVPR)
    * Siyuan Li et al. Single Image Deraining: A Comprehensive Benchmark Analysis [[paper](https://arxiv.org/pdf/1903.08558.pdf)][[code](https://github.com/lsy17096535/Single-Image-Deraining)]
 
-* Depth-attentional Features for Single-image Rain Removal (2019 CVPR)
+* DAF-Net: Depth-attentional Features for Single-image Rain Removal (2019 CVPR)
    * Hu Xiaowei et al. Depth-attentional Features for Single-image Rain Removal [[paper TAB]()][[code](https://github.com/xw-hu/DAF-Net)]
 
 *  Semi-supervised Transfer Learning for Image Rain Removal (2019 CVPR)
    * Wei et al. Semi-supervised Transfer Learning for Image Rain Removal [[paper](https://arxiv.org/pdf/1807.11078.pdf)]
 
-*  PReNet (2019 CVPR)
+*  PReNet: Progressive Image Deraining Networks: A Better and Simpler Baseline (2019 CVPR)
    * Ren rt al. Progressive Image Deraining Networks: A Better and Simpler Baseline [[paper](https://arxiv.org/pdf/1901.09221.pdf)][[code](https://github.com/csdwren/PReNet)]
 
 *  RR-GAN (2019 AAAI)
