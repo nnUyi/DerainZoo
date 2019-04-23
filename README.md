@@ -80,7 +80,7 @@ Contact:
 * Dual CNN (structure and detail) (2018 CVPR)
   * Jinshan Pan et al. Learning Dual Convolutional Neural Networks for Low-Level Vision [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
 
-* Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework
+* Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework (2018 CVPR)
   * Chen Jie et al. Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework [[paper](https://arxiv.org/abs/1803.10433)]  [[Dr. Jie Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)]
   * *Robust Video Content Alignment and Compensation for Clear Vision Through the Rain* [[paper](https://arxiv.org/abs/1804.09555)](*tips: I guess this is the extended journal version*)
 
