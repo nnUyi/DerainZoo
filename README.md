@@ -1,5 +1,5 @@
-# DerainSOTA
-   * A repo for collecting deraining methods. Papers and codes are attached. [[other sources](https://github.com/TaiXiangJiang/FastDeRain)]
+# DerainZoo
+   * DerainZoo for collecting deraining methods. Papers and codes are attached. [[other sources](https://github.com/TaiXiangJiang/FastDeRain)]
 
 state-of-the-art derain methods (video & single image)
 ==
