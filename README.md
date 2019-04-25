@@ -14,6 +14,9 @@ Contact:
 * Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network (2019 ICME)
    * Yang el al. Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network [[paper](https://github.com/nnUyi/ReMAEN/tree/master/paper)][[code TAB](https://github.com/nnUyi/ReMAEN)]
 
+* Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning (2019 CVPR)
+  * Li Ruoteng et al. Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning [[paper](http://export.arxiv.org/pdf/1904.05050)][[code](https://github.com/liruoteng/HeavyRainRemoval)]
+
 * Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset (2019 CVPR)
   * Wang Tianyu et al. Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset [[paper](https://arxiv.org/pdf/1904.01538.pdf)][[code](https://github.com/stevewongv/SPANet)][[github.io](https://stevewongv.github.io/derain-project.html)]
 
