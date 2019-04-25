@@ -14,14 +14,17 @@ Contact:
 * Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network (2019 ICME)
    * Yang el al. Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network [[paper](https://github.com/nnUyi/ReMAEN/tree/master/paper)][[code TAB](https://github.com/nnUyi/ReMAEN)]
 
+* Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration (2019 CVPR)
+   * Liu Xing et al. Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration [[paper](https://arxiv.org/pdf/1903.08817v1.pdf)][[code TAB]()]
+
 * Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning (2019 CVPR)
-  * Li Ruoteng et al. Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning [[paper](http://export.arxiv.org/pdf/1904.05050)][[code](https://github.com/liruoteng/HeavyRainRemoval)]
+  * Li Ruoteng et al. Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning [[paper](http://export.arxiv.org/pdf/1904.05050)][[code](https://github.com/liruoteng/HeavyRainRemoval)][[dataset TAB]()]
 
 * Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset (2019 CVPR)
-  * Wang Tianyu et al. Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset [[paper](https://arxiv.org/pdf/1904.01538.pdf)][[code](https://github.com/stevewongv/SPANet)][[github.io](https://stevewongv.github.io/derain-project.html)]
+  * Wang Tianyu et al. Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset [[paper](https://arxiv.org/pdf/1904.01538.pdf)][[code](https://github.com/stevewongv/SPANet)][[github.io](https://stevewongv.github.io/derain-project.html)][[dataset TAB]()]
 
 * Single Image Deraining: A Comprehensive Benchmark Analysis (2019 CVPR)
-   * Siyuan Li et al. Single Image Deraining: A Comprehensive Benchmark Analysis [[paper](https://arxiv.org/pdf/1903.08558.pdf)][[code](https://github.com/lsy17096535/Single-Image-Deraining)]
+   * Siyuan Li et al. Single Image Deraining: A Comprehensive Benchmark Analysis [[paper](https://arxiv.org/pdf/1903.08558.pdf)][[code](https://github.com/lsy17096535/Single-Image-Deraining)][[dataset TAB]()]
 
 * DAF-Net: Depth-attentional Features for Single-image Rain Removal (2019 CVPR)
    * Hu Xiaowei et al. Depth-attentional Features for Single-image Rain Removal [[paper TAB]()][[code](https://github.com/xw-hu/DAF-Net)]
