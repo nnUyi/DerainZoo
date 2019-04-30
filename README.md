@@ -90,7 +90,6 @@ Contact:
 
 * Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining (2018 ACMMM)
    * Li Guanbin et al. Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining [[paper](https://arxiv.org/pdf/1808.01491.pdf)][[code](https://github.com/AlexHex7/NLEDN)]
-
     
 * Dual CNN (structure and detail) (2018 CVPR)
   * Jinshan Pan et al. Learning Dual Convolutional Neural Networks for Low-Level Vision [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
@@ -124,7 +123,7 @@ Contact:
 2017
 --
 * Conditional GAN: Image De-raining Using a Conditional Generative Adversarial Network (Arxiv2017)
-  * Image De-raining Using a Conditional Generative Adversarial Network. [[paper](https://arxiv.org/abs/1701.05957)] [[code](https://github.com/hezhangsprinter/ID-CGAN)] [[Project](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
+  * Zhang He et al. Image De-raining Using a Conditional Generative Adversarial Network. [[paper](https://arxiv.org/abs/1701.05957)] [[code](https://github.com/hezhangsprinter/ID-CGAN)] [[Project](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
 
 * Transformedlow-rank (2017 ICCV)
   * Chang Yi et al. Transformed Low-Rank Model for Line Pattern Noise Removal. [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Chang_Transformed_Low-Rank_Model_ICCV_2017_paper.html)]
