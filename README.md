@@ -12,7 +12,7 @@ Contact:
 2019
 --
 * Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network (2019 ICME)
-   * Yang el al. Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network [[paper](https://github.com/nnUyi/ReMAEN/tree/master/paper)][[code TAB](https://github.com/nnUyi/ReMAEN)]
+   * Yang el al. Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network [[paper](https://github.com/nnUyi/ReMAEN/tree/master/paper)][[code](https://github.com/nnUyi/ReMAEN)]
 
 * Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration (2019 CVPR)
    * Liu Xing et al. Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration [[paper](https://arxiv.org/pdf/1903.08817v1.pdf)][[code TAB]()]
