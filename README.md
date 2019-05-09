@@ -3,8 +3,8 @@
 
 state-of-the-art derain methods (video & single image)
 ==
-Contact: 
 
+Author:
 |Name|Youzhao Yang|
 |---|---
 |E-mail|yzyang17@fudan.edu.cn
