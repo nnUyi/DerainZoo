@@ -16,7 +16,7 @@ Author:
    * Yang Youzhao el al. Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network [[paper](https://github.com/nnUyi/ReMAEN/tree/master/paper)][[code](https://github.com/nnUyi/ReMAEN)]
 
 * Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration (2019 CVPR)
-   * Liu Xing et al. Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration [[paper](https://arxiv.org/pdf/1903.08817v1.pdf)][[code TAB]()]
+   * Liu Xing et al. Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration [[paper](https://arxiv.org/pdf/1903.08817v1.pdf)][[code](https://github.com/liu-vis/DualResidualNetworks)]
 
 * Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning (2019 CVPR)
   * Li Ruoteng et al. Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning [[paper](http://export.arxiv.org/pdf/1904.05050)][[code](https://github.com/liruoteng/HeavyRainRemoval)][[dataset TAB](https://github.com/liruoteng/HeavyRainRemoval)]
