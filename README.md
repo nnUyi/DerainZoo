@@ -1,5 +1,5 @@
 # DerainZoo
-   * DerainZoo for collecting deraining methods. Papers and codes are attached. [[other sources](https://github.com/TaiXiangJiang/FastDeRain)]
+   * DerainZoo for collecting deraining methods. Papers, codes and datasets are attached. The datasets is available [here](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md). [[other sources](https://github.com/TaiXiangJiang/FastDeRain)]
 
 State-Of-The-Art deraining methods (single image & video)
 ==
