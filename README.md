@@ -3,9 +3,9 @@
 
 Author:
 
-|Name|Youzhao Yang|
+|Name|E-mail|
 |---|---|
-|E-mail|yzyang17@fudan.edu.cn|
+|Youzhao Yang|yzyang17@fudan.edu.cn|
 
 State-Of-The-Art deraining methods (single image & video)
 ==
