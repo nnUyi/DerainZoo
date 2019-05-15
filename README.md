@@ -1,15 +1,14 @@
 # DerainZoo
    * DerainZoo for collecting deraining methods. Papers, codes and datasets are attached. **The datasets are available [here](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md).** [[other sources](https://github.com/TaiXiangJiang/FastDeRain)]
 
-State-Of-The-Art deraining methods (single image & video)
-==
-
 Author:
 
 |Name|Youzhao Yang|
-|---|---
-|E-mail|yzyang17@fudan.edu.cn
+|---|---|
+|E-mail|yzyang17@fudan.edu.cn|
 
+State-Of-The-Art deraining methods (single image & video)
+==
 2019
 --
 * Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network (2019 ICME)
