@@ -1,5 +1,5 @@
 # DerainZoo
-   * DerainZoo: A list of deraining methods. Papers, codes and datasets are maintained. Other sources about deraining can be observed [[here]((https://github.com/TaiXiangJiang/FastDeRain)])].
+   * DerainZoo: A list of deraining methods. Papers, codes and datasets are maintained. Other sources about deraining can be observed [[here](https://github.com/TaiXiangJiang/FastDeRain)].
    
    * Deraining datasets are available at the [website](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md).
    
