@@ -1,5 +1,9 @@
 # DerainZoo
-   * DerainZoo for collecting deraining methods. Papers, codes and datasets are attached. **The datasets are available [here](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md).** [[other sources](https://github.com/TaiXiangJiang/FastDeRain)]
+   * DerainZoo for collecting deraining methods. Papers, codes and datasets are attached.
+   
+   * **Deraining datasets are available at the [website](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md).** [[other sources](https://github.com/TaiXiangJiang/FastDeRain)]
+   
+   * More datasets about other image processing task (brightening, HDR, color enhancement, and inpainting) are available [here](https://github.com/nnUyi/Image-Processing-Datasets).
 
 Author:
 
