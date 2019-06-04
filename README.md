@@ -15,6 +15,9 @@ State-Of-The-Art deraining methods (single image & video)
 ==
 2019
 --
+* An Effective Two-Branch Model-Based Deep Network for Single Image Deraining (2019 Arxiv)
+   * Wang Yinglong et al. An Effective Two-Branch Model-Based Deep Network for Single Image Deraining. [[paper](https://arxiv.org/pdf/1905.05404.pdf)]
+
 * Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network (2019 ICME)
    * Yang Youzhao el al. Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network [[paper](https://github.com/nnUyi/ReMAEN/tree/master/paper)][[code](https://github.com/nnUyi/ReMAEN)]
 
