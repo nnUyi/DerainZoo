@@ -34,7 +34,7 @@ State-Of-The-Art deraining methods (single image & video)
    * Siyuan Li et al. Single Image Deraining: A Comprehensive Benchmark Analysis [[paper](https://arxiv.org/pdf/1903.08558.pdf)][[code](https://github.com/lsy17096535/Single-Image-Deraining)][[dataset TAB](https://github.com/lsy17096535/Single-Image-Deraining)]
 
 * DAF-Net: Depth-attentional Features for Single-image Rain Removal (2019 CVPR)
-   * Hu Xiaowei et al. Depth-attentional Features for Single-image Rain Removal [[paper TAB]()][[code](https://github.com/xw-hu/DAF-Net)][[github.io](https://xw-hu.github.io/)]
+   * Hu Xiaowei et al. Depth-attentional Features for Single-image Rain Removal [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)][[code](https://github.com/xw-hu/DAF-Net)][[github.io](https://xw-hu.github.io/)]
 
 *  Semi-supervised Transfer Learning for Image Rain Removal (2019 CVPR)
    * Wei Wei et al. Semi-supervised Transfer Learning for Image Rain Removal [[paper](https://arxiv.org/pdf/1807.11078.pdf)]
