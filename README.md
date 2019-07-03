@@ -15,6 +15,9 @@ State-Of-The-Art deraining methods (single image & video)
 ==
 2019
 --
+* Single Image Deraining via Recurrent Hierarchy and Enhancement Network (2019 ACM MM)
+   * Youzhao Yang et al. Single Image Deraining via Recurrent Hierarchy and Enhancement Network. [[paper TAB]()][[code TAB]()]
+
 * An Effective Two-Branch Model-Based Deep Network for Single Image Deraining (2019 Arxiv)
    * Wang Yinglong et al. An Effective Two-Branch Model-Based Deep Network for Single Image Deraining. [[paper](https://arxiv.org/pdf/1905.05404.pdf)]
 
