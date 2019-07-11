@@ -15,6 +15,9 @@ State-Of-The-Art deraining methods (single image & video)
 ==
 2019
 --
+* D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal (2019 TIP)
+   * Wenhan Yang et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal [[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][[code TAB]()]
+
 * Single Image Deraining via Recurrent Hierarchy and Enhancement Network (2019 ACM MM)
    * Youzhao Yang et al. Single Image Deraining via Recurrent Hierarchy and Enhancement Network. [[paper TAB]()][[code TAB]()]
 
