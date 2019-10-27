@@ -60,7 +60,7 @@ State-Of-The-Art deraining methods (single image & video)
 *  PReNet: Progressive Image Deraining Networks: A Better and Simpler Baseline (2019 CVPR)
    * Ren Dongwei et al. Progressive Image Deraining Networks: A Better and Simpler Baseline [[paper](https://arxiv.org/pdf/1901.09221.pdf)][[code](https://github.com/csdwren/PReNet)]
 
-*  RR-GAN (2019 AAAI)
+*  RR-GAN: Single Image Rain Removal Without Paired Information (2019 AAAI)
    *  Zhu et al. RR-GAN: Single Image Rain Removal Without Paired Information [[paper](http://vijaychan.github.io/Publications/2019_derain.pdf)]
 
 * Morphological Networks for Image De-raining (Arxiv2019)
