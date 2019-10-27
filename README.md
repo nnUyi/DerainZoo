@@ -15,6 +15,10 @@ State-Of-The-Art deraining methods (single image & video)
 ==
 2019
 --
+
+* ERL-Net: Entangled Representation Learning for Single Image De-Raining
+   * Guoqing Wang, Changming Sun et al. ERL-Net: Entangled Representation Learning for Single Image De-Raining [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ERL-Net_Entangled_Representation_Learning_for_Single_Image_De-Raining_ICCV_2019_paper.pdf)][[codes TAB]()]
+
 * D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal (2019 TIP)
    * Wenhan Yang et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal [[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][[code TAB]()]
 
