@@ -33,6 +33,12 @@ State-Of-The-Art deraining methods (single image & video)
 * Single Image Deraining via Recurrent Hierarchy and Enhancement Network (2019 ACM MM)
    * Youzhao Yang et al. Single Image Deraining via Recurrent Hierarchy and Enhancement Network. [[paper TAB]()][[code TAB]()]
 
+* DTDN: Dual-task De-raining Network (2019 ACM MM)
+   * DTDN: Dual-task De-raining Network [[paper TAB]()][[codes TAB]()]
+   
+* Gradual Network for Single Image De-raining (2019 ACM MM)
+   * Gradual Network for Single Image De-raining [[paper TAB]()][[codes TAB]()]
+
 * An Effective Two-Branch Model-Based Deep Network for Single Image Deraining (2019 Arxiv)
    * Wang Yinglong et al. An Effective Two-Branch Model-Based Deep Network for Single Image Deraining. [[paper](https://arxiv.org/pdf/1905.05404.pdf)]
 
