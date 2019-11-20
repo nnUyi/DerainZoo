@@ -15,14 +15,6 @@ State-Of-The-Art deraining methods (single image & video)
 ==
 2019
 --
-* Physics-Based Rendering for Improving Robustness to Rain (2019 ICCV)
-   * Shirsendu Sukanta Halder et al. Physics-Based Rendering for Improving Robustness to Rain [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Halder_Physics-Based_Rendering_for_Improving_Robustness_to_Rain_ICCV_2019_paper.pdf)][[codes TAB]()]
-
-* RainFlow: Optical Flow Under Rain Streaks and Rain Veiling Effect (2019 ICCV)
-   * Ruoteng Li et al. RainFlow: Optical Flow Under Rain Streaks and Rain Veiling Effect [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_RainFlow_Optical_Flow_Under_Rain_Streaks_and_Rain_Veiling_Effect_ICCV_2019_paper.pdf)][[codes](https://liruoteng.github.io/)][[website](https://liruoteng.github.io/)]
-   
-* Deep Learning for Seeing Through Window With Raindrops (2019 ICCV)
-   * Yuhui Quan et al. Deep Learning for Seeing Through Window With Raindrops [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Quan_Deep_Learning_for_Seeing_Through_Window_With_Raindrops_ICCV_2019_paper.pdf)][[codes TAB]()]
 
 * ERL-Net: Entangled Representation Learning for Single Image De-Raining (2019 ICCV)
    * Guoqing Wang, Changming Sun et al. ERL-Net: Entangled Representation Learning for Single Image De-Raining [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ERL-Net_Entangled_Representation_Learning_for_Single_Image_De-Raining_ICCV_2019_paper.pdf)][[codes](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)]
