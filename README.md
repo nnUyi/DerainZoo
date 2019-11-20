@@ -11,16 +11,14 @@ Author:
 |---|---|
 |Youzhao Yang|yzyang17@fudan.edu.cn|
 
-State-Of-The-Art deraining methods (single image & video)
+State-Of-The-Art Deraining Methods (Single Image vs. Video Based)
 ==
+
+## Single Image Deraining
 2019
 --
-
 * ERL-Net: Entangled Representation Learning for Single Image De-Raining (2019 ICCV)
    * Guoqing Wang, Changming Sun et al. ERL-Net: Entangled Representation Learning for Single Image De-Raining [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ERL-Net_Entangled_Representation_Learning_for_Single_Image_De-Raining_ICCV_2019_paper.pdf)][[codes](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)]
-
-* D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal (2019 TIP)
-   * Wenhan Yang et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal [[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][[code TAB]()]
 
 * Single Image Deraining via Recurrent Hierarchy and Enhancement Network (2019 ACM MM)
    * Youzhao Yang et al. Single Image Deraining via Recurrent Hierarchy and Enhancement Network. [[paper](http://delivery.acm.org/10.1145/3360000/3351149/p1814-yang.pdf?ip=202.120.235.180&id=3351149&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573634982_715c64cb335fa08b82d82225f1944231#URLTOKEN#)][[code](https://github.com/nnUyi/ReHEN)]
@@ -116,13 +114,6 @@ State-Of-The-Art deraining methods (single image & video)
     
 * Dual CNN (structure and detail) (2018 CVPR)
   * Pan Jinshan et al. Learning Dual Convolutional Neural Networks for Low-Level Vision [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
-
-* Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework (2018 CVPR)
-  * Chen Jie et al. Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework [[paper](https://arxiv.org/abs/1803.10433)]  [[Dr. Jie Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)]
-  * Chen Jie et al. Robust Video Content Alignment and Compensation for Clear Vision Through the Rain [[paper](https://arxiv.org/abs/1804.09555)](*tips: I guess this is the extended journal version*)
-
-* Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos (2018 CVPR)
-    * Liu Jiaying et al. Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)][[code](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
   
 * Attentive GAN: Attentive Generative Adversarial Network for Raindrop Removal from a Single Image (2018 CVPR)
     * Qian Rui et al. Attentive Generative Adversarial Network for Raindrop Removal from a Single Image [[paper](https://arxiv.org/abs/1711.10098)]
@@ -131,9 +122,6 @@ State-Of-The-Art deraining methods (single image & video)
 
 * DID-MDN: Multi-stream Dense Network (2018 CVPR)
   * Zhang He et al. Density-aware Single Image De-raining using a Multi-stream Dense Network [[paper](https://arxiv.org/abs/1802.07412)] [[code](https://github.com/hezhangsprinter/DID-MDN)]  [[Dr. He Zhang's homepage](https://sites.google.com/site/hezhangsprinter/)] 
-
-* MSCSC: Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding (2018 CVPR)
-    * Li Minghan et al. Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding [[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)] 
   
 * Directional global sparse (2018 AMM)
   * Deng Liang Jian et al. A directional global sparse model for single image rain removal [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
@@ -151,10 +139,6 @@ State-Of-The-Art deraining methods (single image & video)
 * Transformedlow-rank (2017 ICCV)
   * Chang Yi et al. Transformed Low-Rank Model for Line Pattern Noise Removal. [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Chang_Transformed_Low-Rank_Model_ICCV_2017_paper.html)]
 
-* MoG: hould We Encode Rain Streaks in Video as Deterministic or Stochastic (2017 ICCV)
-  * Wei Wei et al. Should We Encode Rain Streaks in Video as Deterministic or Stochastic? [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Wei_Should_We_Encode_ICCV_2017_paper.html)] 
-[[code](https://github.com/wwxjtu/RainRemoval_ICCV2017)]
-
 * Joint Bi-layer Optimization (2017 ICCV)
   * Wei Wei et al. Joint Bi-layer Optimization for Single-image Rain Streak Removal. [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.html)]
  [[Dr. Zhu's homepage](http://appsrv.cse.cuhk.edu.hk/~lzhu/)] 
@@ -163,18 +147,11 @@ State-Of-The-Art deraining methods (single image & video)
   * Gu Shuhang et al. Joint Convolutional Analysis and Synthesis Sparse Representation for Single Image Layer Separation. [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Gu_Joint_Convolutional_Analysis_ICCV_2017_paper.html)]
  [[code](http://www4.comp.polyu.edu.hk/~cslzhang/code/JCAS_Release.zip)]  [[Gu's homepage](https://sites.google.com/site/shuhanggu/home)]
 
-* Tensor based method (FastDeRain) (2017 CVPR)
-  * Jiang Taixiang et al. A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.html)]
-  * Fastderain: A novel video rain streak removal method using directional gradient priors. [[paper](https://arxiv.org/abs/1803.07487)][[code](https://github.com/TaiXiangJiang/FastDeRain)]
-
 * Deep detail network (DDN) (2017 CVPR)
   * Fu Xueyang et al. Removing rain from single images via a deep detail network. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[code](https://xueyangfu.github.io/projects/cvpr2017.html)]
   
 * JODER: Deep joint rain detection and removal from a single image (2017 CVPR)
   * Yang Wenhan et al. Deep joint rain detection and removal from a single image. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[code)](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
- 
-* Matrix decomposition: Video Desnowing and Deraining Based on Matrix Decomposition (2017 CVPR)
-  * Ren Weilong et al. Video Desnowing and Deraining Based on Matrix Decomposition. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Ren_Video_Desnowing_and_CVPR_2017_paper.html)]
  
 * Hierarchical: A Hierarchical Approach for Rain or Snow Removing in a Single Color Image (2017 TIP)
   * Wang Yinglong et al. A Hierarchical Approach for Rain or Snow Removing in a Single Color Image. [[paper](http://ieeexplore.ieee.org/abstract/document/7934435/)]
@@ -192,20 +169,55 @@ State-Of-The-Art deraining methods (single image & video)
   * Li Yu et al. Single Image Rain Streak Decomposition Using Layer Priors. [[paper](https://ieeexplore.ieee.org/abstract/document/7934436/)]
  [[rainy images dataset](http://yu-li.github.io/paper/li_cvpr16_rain.zip)] [[Li's homepage](http://yu-li.github.io/)]
 
-* Adherent raindrop modeling (2016 TPAMI)
-  * You Shaodi et al. Adherent raindrop modeling, detectionand removal in video. [[paper](https://ieeexplore.ieee.org/abstract/document/7299675/)] [[project page](http://www.cvl.iis.u-tokyo.ac.jp/~yousd/CVPR2013/Shaodi_CVPR2013.html "Not Available")]
-
 * Discriminative sparse coding: Removing rain from a single image via discriminative sparse coding (2015 ICCV)
   * Luo Yu et al. Removing rain from a single image via discriminative sparse coding.  [[paper](http://ieeexplore.ieee.org/document/7410745/)] [[code](http://www.math.nus.edu.sg/~matjh/download/image_deraining/rain_removal_v.1.1.zip)]
-
-* Temporal correlation and low-rank matrix completion (2015 TIP)
-  * Kim JH et al. Video deraining and desnowing using temporal correlation and low-rank matrix completion. [[paper](https://ieeexplore.ieee.org/abstract/document/7101234/)] [[code](http://mcl.korea.ac.kr/~jhkim/deraining/)]  
-
-* Local phase information (2015 IJCV)
-  * Santhaseelan et al. Utilizing local phase information to remove rain from video. [[paper](https://link.springer.com/article/10.1007/s11263-014-0759-8)] 
 
 * Restoring An Image Taken Through a Window Covered with Dirt or Rain (2013 ICCV)
   * David Eigen et al. Restoring An Image Taken Through a Window Covered with Dirt or Rain [[paper](https://cs.nyu.edu/~deigen/rain/)][[codes](https://cs.nyu.edu/~deigen/rain/)]
 
 * Automatic Single-Image-Based Rain Streaks Removal via Image Decomposition (2012 TIP)
   * Kang Li Wei et al. Automatic Single-Image-Based Rain Streaks Removal via Image Decomposition [[paper](http://www.ee.nthu.edu.tw/cwlin/Rain_Removal/tip_rain_removal_2011.pdf)][[codes](http://www.ee.nthu.edu.tw/~cwlin/pub.htm)]
+  
+## Video Based Deraining
+2019
+--
+* D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal (2019 TIP)
+   * Wenhan Yang et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal [[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][[code TAB]()]
+
+2018
+--
+* MSCSC: Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding (2018 CVPR)
+    * Li Minghan et al. Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding [[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
+
+* Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework (2018 CVPR)
+  * Chen Jie et al. Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework [[paper](https://arxiv.org/abs/1803.10433)]  [[Dr. Jie Chen's GIT (dataset available)](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[Prof. Lap-Pui Chau's homepage](http://www.ntu.edu.sg/home/elpchau/)]
+  * Chen Jie et al. Robust Video Content Alignment and Compensation for Clear Vision Through the Rain [[paper](https://arxiv.org/abs/1804.09555)](*tips: I guess this is the extended journal version*)
+
+* Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos (2018 CVPR)
+    * Liu Jiaying et al. Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)][[code](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
+
+
+2017
+--
+* MoG: hould We Encode Rain Streaks in Video as Deterministic or Stochastic (2017 ICCV)
+  * Wei Wei et al. Should We Encode Rain Streaks in Video as Deterministic or Stochastic? [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Wei_Should_We_Encode_ICCV_2017_paper.html)] 
+[[code](https://github.com/wwxjtu/RainRemoval_ICCV2017)]
+
+* Tensor based method (FastDeRain) (2017 CVPR)
+  * Jiang Taixiang et al. A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.html)]
+  * Fastderain: A novel video rain streak removal method using directional gradient priors. [[paper](https://arxiv.org/abs/1803.07487)][[code](https://github.com/TaiXiangJiang/FastDeRain)]
+
+
+* Matrix decomposition: Video Desnowing and Deraining Based on Matrix Decomposition (2017 CVPR)
+  * Ren Weilong et al. Video Desnowing and Deraining Based on Matrix Decomposition. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Ren_Video_Desnowing_and_CVPR_2017_paper.html)]
+
+2015-2016
+--
+* Adherent raindrop modeling (2016 TPAMI)
+  * You Shaodi et al. Adherent raindrop modeling, detectionand removal in video. [[paper](https://ieeexplore.ieee.org/abstract/document/7299675/)] [[project page](http://www.cvl.iis.u-tokyo.ac.jp/~yousd/CVPR2013/Shaodi_CVPR2013.html "Not Available")]
+
+* Temporal correlation and low-rank matrix completion (2015 TIP)
+  * Kim JH et al. Video deraining and desnowing using temporal correlation and low-rank matrix completion. [[paper](https://ieeexplore.ieee.org/abstract/document/7101234/)] [[code](http://mcl.korea.ac.kr/~jhkim/deraining/)]  
+
+* Local phase information (2015 IJCV)
+  * Santhaseelan et al. Utilizing local phase information to remove rain from video. [[paper](https://link.springer.com/article/10.1007/s11263-014-0759-8)] 
