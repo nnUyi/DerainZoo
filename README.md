@@ -1,14 +1,13 @@
+|Name|E-mail|Group|
+|---|---|---|
+|Youzhao Yang|yzyang17@fudan.edu.cn|Fudan Machine Vision Lab by [Hong Lu](http://homepage.fudan.edu.cn/honglu/machine-vision-lab/)|
+
 # DerainZoo (Single Image vs. Video Based)
    * DerainZoo: A list of deraining methods. Papers, codes and datasets are maintained. Other sources about deraining can be observed [[here](https://github.com/TaiXiangJiang/FastDeRain)].
    
    * Datasets for single image deraining are available at the [website](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md).
    
    * **More datasets about other image processing task (brightening, HDR, color enhancement, and inpainting) are available [here](https://github.com/nnUyi/Image-Processing-Datasets).**
-
-
-|Name|E-mail|Group|
-|---|---|---|
-|Youzhao Yang|yzyang17@fudan.edu.cn|Fudan Machine Vision Lab by [Hong Lu](http://homepage.fudan.edu.cn/honglu/machine-vision-lab/)|
 
 ## Single Image Deraining
 2019
