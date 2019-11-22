@@ -5,11 +5,10 @@
    
    * **More datasets about other image processing task (brightening, HDR, color enhancement, and inpainting) are available [here](https://github.com/nnUyi/Image-Processing-Datasets).**
 
-Author:
 
-|Name|E-mail|
-|---|---|
-|Youzhao Yang|yzyang17@fudan.edu.cn|
+|Name|E-mail|Group|
+|---|---|---|
+|Youzhao Yang|yzyang17@fudan.edu.cn|Fudan Machine Vision Lab by [Honglu](http://homepage.fudan.edu.cn/honglu/machine-vision-lab/)|
 
 ## Single Image Deraining
 2019
