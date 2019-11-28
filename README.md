@@ -1,6 +1,6 @@
 |Name|E-mail|Group|
 |---|---|---|
-|Youzhao Yang|yzyang17@fudan.edu.cn|Fudan Machine Vision Lab by [Hong Lu](http://homepage.fudan.edu.cn/honglu/machine-vision-lab/)|
+|Youzhao Yang|yzyang17@fudan.edu.cn|[Fudan Machine Vision Lab](https://github.com/FudanMV) by [Hong Lu](http://homepage.fudan.edu.cn/honglu/machine-vision-lab/)|
 
 # DerainZoo (Single Image vs. Video Based)
    * DerainZoo: A list of deraining methods. Papers, codes and datasets are maintained. Other sources about deraining can be observed [here](https://github.com/TaiXiangJiang/FastDeRain).
