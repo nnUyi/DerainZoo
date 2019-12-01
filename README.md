@@ -54,6 +54,9 @@
 *  RR-GAN: Single Image Rain Removal Without Paired Information (2019 AAAI)
    *  Zhu et al. RR-GAN: Single Image Rain Removal Without Paired Information [[paper](http://vijaychan.github.io/Publications/2019_derain.pdf)]
 
+*  Lightweight Pyramid Networks for Image Deraining (2019 TNNLS)
+   * Fu Xueyang et al. Lightweight Pyramid Networks for Image Deraining. [[paper](https://arxiv.org/abs/1805.06173)]  [[Dr. Xueyang Fu's homepage](https://xueyangfu.github.io/)][[code](https://xueyangfu.github.io/projects/LPNet.html)]
+
 * Morphological Networks for Image De-raining (Arxiv2019)
    * Mondal et al. Morphological Networks for Image De-raining [[paper](https://arxiv.org/pdf/1901.02411.pdf)]
 
@@ -80,9 +83,6 @@
   
 * A Deep Tree-Structured Fusion Model for Single Image Deraining (Arxiv2018)
   * Fu Xueyang et. al. A Deep Tree-Structured Fusion Model for Single Image Deraining [[paper](https://arxiv.org/pdf/1811.08632.pdf)]
-
-*  Lightweight Pyramid Networks for Image Deraining (Arxiv 2018)
-   * Fu Xueyang et al. Lightweight Pyramid Networks for Image Deraining. [[paper](https://arxiv.org/abs/1805.06173)]  [[Dr. Xueyang Fu's homepage](https://xueyangfu.github.io/)]
 
 * Fast Single Image Rain Removal via a Deep Decomposition-Composition Network (ArXiv2018)
   * Li Siyuan et al. Fast Single Image Rain Removal via a Deep Decomposition-Composition Network [[paper](https://arxiv.org/abs/1804.02688)]
