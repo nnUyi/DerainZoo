@@ -46,7 +46,7 @@
    * Hu Xiaowei et al. Depth-attentional Features for Single-image Rain Removal [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)][[code](https://github.com/xw-hu/DAF-Net)][[github.io](https://xw-hu.github.io/)]
 
 *  Semi-supervised Transfer Learning for Image Rain Removal (2019 CVPR)
-   * Wei Wei et al. Semi-supervised Transfer Learning for Image Rain Removal [[paper](https://arxiv.org/pdf/1807.11078.pdf)]
+   * Wei Wei et al. Semi-supervised Transfer Learning for Image Rain Removal [[paper](https://arxiv.org/pdf/1807.11078.pdf)][[code](https://github.com/wwzjer/Semi-supervised-IRR)]
 
 *  PReNet: Progressive Image Deraining Networks: A Better and Simpler Baseline (2019 CVPR)
    * Ren Dongwei et al. Progressive Image Deraining Networks: A Better and Simpler Baseline [[paper](https://arxiv.org/pdf/1901.09221.pdf)][[code](https://github.com/csdwren/PReNet)]
