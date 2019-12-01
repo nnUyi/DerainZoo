@@ -2,6 +2,15 @@
 |---|---|---|
 |Youzhao Yang|yzyang17@fudan.edu.cn|[Fudan Machine Vision Lab](https://github.com/FudanMV) by [Hong Lu](http://homepage.fudan.edu.cn/honglu/machine-vision-lab/)|
 
+##  Image Quality Metrics
+* PSNR (Peak Signal-to-Noise Ratio) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[Matlab Code]](https://www.mathworks.com/help/images/ref/psnr.html) [[Python Code]](https://github.com/aizvorski/video-quality)
+* SSIM (Structural Similarity) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284395) [[Matlab Code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[Python Code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
+* VIF (Visual Quality) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1576816) [[Matlab Code]](http://sse.tongji.edu.cn/linzhang/IQA/Evalution_VIF/eva-VIF.htm)
+* FSIM (Feature Similarity) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5705575) [[Matlab Code]](http://sse.tongji.edu.cn/linzhang/IQA/FSIM/FSIM.htm))
+
+- Please note that all quantitative results are computed based on Y channel.
+- Thanks for the sharing of [Hong Wang](https://github.com/hongwang01/Video-and-Single-Image-Deraining)
+
 # DerainZoo (Single Image vs. Video Based)
    * DerainZoo: A list of deraining methods. Papers, codes and datasets are maintained. Other sources about deraining can be observed [here](https://github.com/TaiXiangJiang/FastDeRain).
    
