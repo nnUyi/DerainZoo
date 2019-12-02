@@ -1,10 +1,9 @@
-|Name|E-mail|Group|
-|---|---|---|
-|Youzhao Yang|yzyang17@fudan.edu.cn|[Fudan Machine Vision Lab](https://github.com/FudanMV) by [Hong Lu](http://homepage.fudan.edu.cn/honglu/machine-vision-lab/)|
-
 # DerainZoo (Single Image vs. Video Based)
-   * DerainZoo: A list of deraining methods. Papers, codes and datasets are maintained. Other sources about deraining can be observed [here](https://github.com/TaiXiangJiang/FastDeRain).
-   
+[Youzhao Yang](https://github.com/nnuyi), [Hong Lu](http://homepage.fudan.edu.cn/honglu/machine-vision-lab/) in [Fudan Machine Vision Lab](https://github.com/FudanMV)
+
+## Description
+   * DerainZoo: A list of deraining methods. Papers, codes and datasets are maintained. Other sources about deraining can be observed in [web1](https://github.com/TaiXiangJiang/FastDeRain) and [web2](https://github.com/hongwang01/Video-and-Single-Image-Deraining).
+
    * Datasets for single image deraining are available at the [website](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md).
    
    * More datasets about other image processing task (brightening, HDR, color enhancement, and inpainting) are available [here](https://github.com/nnUyi/Image-Processing-Datasets).
@@ -15,7 +14,7 @@
 * VIF (Visual Quality) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1576816) [[matlab code]](http://sse.tongji.edu.cn/linzhang/IQA/Evalution_VIF/eva-VIF.htm)
 * FSIM (Feature Similarity) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5705575) [[matlab code]](http://sse.tongji.edu.cn/linzhang/IQA/FSIM/FSIM.htm))
 
-- Please note that all quantitative results are computed based on Y channel. Thanks for the sharing of codes by [Hong Wang](https://github.com/hongwang01/Video-and-Single-Image-Deraining).
+- **Please note that all quantitative results are computed based on Y channel.**
 
 ## Single Image Deraining
 ### Datasets
