@@ -20,6 +20,9 @@
 ## Single Image Deraining
 2019
 --
+* A Survey on Rain Removal from Video and Single Image (2019 Arxiv)
+   * Hong Wang et al. A Survey on Rain Removal from Video and Single Image. [[paper](https://arxiv.org/pdf/1909.08326.pdf)][[code](https://github.com/hongwang01/Video-and-Single-Image-Deraining)]
+
 * ERL-Net: Entangled Representation Learning for Single Image De-Raining (2019 ICCV)
    * Guoqing Wang, Changming Sun et al. ERL-Net: Entangled Representation Learning for Single Image De-Raining [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ERL-Net_Entangled_Representation_Learning_for_Single_Image_De-Raining_ICCV_2019_paper.pdf)][[codes](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)]
 
