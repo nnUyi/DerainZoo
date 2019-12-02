@@ -247,3 +247,16 @@
 
 * Utilizing local phase information to remove rain from video (2015 IJCV)
   * Santhaseelan et al. Utilizing local phase information to remove rain from video. [[paper](https://link.springer.com/article/10.1007/s11263-014-0759-8)] 
+
+## Acknowledgement
+- Thanks for the sharing of codes of image quality metrics by [Hong Wang](https://github.com/hongwang01/Video-and-Single-Image-Deraining).
+
+## Citation
+@article{WangA,
+  title={DerainZoo},
+  author={Youzhao, Yang and Hong, Lu},
+  year={2019}
+}
+
+## Contact
+- e-mails: yzyang17@fudan.edu.cn
