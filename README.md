@@ -14,7 +14,7 @@
 * VIF (Visual Quality) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1576816) [[matlab code]](http://sse.tongji.edu.cn/linzhang/IQA/Evalution_VIF/eva-VIF.htm)
 * FSIM (Feature Similarity) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5705575) [[matlab code]](http://sse.tongji.edu.cn/linzhang/IQA/FSIM/FSIM.htm))
 
-- **Please note that all quantitative results are computed based on Y channel.**
+**Please note that all quantitative results are computed based on Y channel.**
 
 ## Single Image Deraining
 ### Datasets
@@ -251,12 +251,5 @@
 ## Acknowledgement
 - Thanks for the sharing of codes of image quality metrics by [Hong Wang](https://github.com/hongwang01/Video-and-Single-Image-Deraining).
 
-## Citation
-@article{WangA,
-  title={DerainZoo},
-  author={Youzhao, Yang and Hong, Lu},
-  year={2019}
-}
-
 ## Contact
-- e-mails: yzyang17@fudan.edu.cn
+- e-mail: yzyang17@fudan.edu.cn
