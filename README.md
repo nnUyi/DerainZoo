@@ -19,7 +19,7 @@
 
 ## Single Image Deraining
 ### Datasets
-* [Rain12](http://yu-li.github.io/paper/li_cvpr16_rain.zip)) from [Layer Prior](https://ieeexplore.ieee.org/document/7780668/) (2016 CVPR)
+* Rain12 [[paper](https://ieeexplore.ieee.org/document/7780668/)] [[dataset]((http://yu-li.github.io/paper/li_cvpr16_rain.zip))] (2016 CVPR)
 * Rain100L from [JORDER]() (2017 CVPR)
 * Rain100H from [JORDER]() (2017 CVPR)
 * Rain800 from [ID_CGAN]() (2017 Arxiv)
