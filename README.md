@@ -18,6 +18,19 @@
 - Please note that all quantitative results are computed based on Y channel. Thanks for the sharing of codes by [Hong Wang](https://github.com/hongwang01/Video-and-Single-Image-Deraining).
 
 ## Single Image Deraining
+### Datasets
+* [Rain12](http://yu-li.github.io/paper/li_cvpr16_rain.zip)) from [Layer Prior](https://ieeexplore.ieee.org/document/7780668/) (2016 CVPR)
+* Rain100L from [JORDER]() (2017 CVPR)
+* Rain100H from [JORDER]() (2017 CVPR)
+* Rain800 from [ID_CGAN]() (2017 Arxiv)
+* Rain1200 from [DID-MDN]() (2018 CVPR)
+* Rain1400 from [DDN]() (2017 CVPR)
+* Heavy Rain Dataset from [Heavy Rain Image Restoration] (2019 CVPR)
+* Real-world Paired Rain Dataset from [SPANet]() (2019 CVPR)
+
+
+
+### Papers
 2019
 --
 * A Survey on Rain Removal from Video and Single Image (2019 Arxiv)
