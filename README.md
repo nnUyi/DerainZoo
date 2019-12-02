@@ -43,16 +43,16 @@
    * Hong Wang et al. A Survey on Rain Removal from Video and Single Image. [[paper](https://arxiv.org/pdf/1909.08326.pdf)][[code](https://github.com/hongwang01/Video-and-Single-Image-Deraining)]
 
 * ERL-Net: Entangled Representation Learning for Single Image De-Raining (2019 ICCV)
-   * Guoqing Wang, Changming Sun et al. ERL-Net: Entangled Representation Learning for Single Image De-Raining [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ERL-Net_Entangled_Representation_Learning_for_Single_Image_De-Raining_ICCV_2019_paper.pdf)][[codes](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)]
+   * Guoqing Wang, Changming Sun et al. ERL-Net: Entangled Representation Learning for Single Image De-Raining [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ERL-Net_Entangled_Representation_Learning_for_Single_Image_De-Raining_ICCV_2019_paper.pdf)][[code](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)]
 
 * Single Image Deraining via Recurrent Hierarchy and Enhancement Network (2019 ACM MM)
    * Youzhao Yang et al. Single Image Deraining via Recurrent Hierarchy and Enhancement Network. [[paper](http://delivery.acm.org/10.1145/3360000/3351149/p1814-yang.pdf?ip=202.120.235.180&id=3351149&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573634982_715c64cb335fa08b82d82225f1944231#URLTOKEN#)][[code](https://github.com/nnUyi/ReHEN)]
 
 * DTDN: Dual-task De-raining Network (2019 ACM MM)
-   * Wang Zheng et al. DTDN: Dual-task De-raining Network [[paper](http://delivery.acm.org/10.1145/3360000/3350945/p1833-wang.pdf?ip=202.120.235.223&id=3350945&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964912_ad2b0e3c2bc1fdb6f216a99468d1a0ea#URLTOKEN#)][[codes TAB]()]
+   * Wang Zheng et al. DTDN: Dual-task De-raining Network [[paper](http://delivery.acm.org/10.1145/3360000/3350945/p1833-wang.pdf?ip=202.120.235.223&id=3350945&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964912_ad2b0e3c2bc1fdb6f216a99468d1a0ea#URLTOKEN#)][[code TAB]()]
    
 * Gradual Network for Single Image De-raining (2019 ACM MM)
-   * Yu Weijiang et al. Gradual Network for Single Image De-raining [[paper](http://delivery.acm.org/10.1145/3360000/3350883/p1795-yu.pdf?ip=202.120.235.223&id=3350883&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964981_badf5608c2c0c67afa35ba86f50fe968#URLTOKEN#)][[codes TAB]()]
+   * Yu Weijiang et al. Gradual Network for Single Image De-raining [[paper](http://delivery.acm.org/10.1145/3360000/3350883/p1795-yu.pdf?ip=202.120.235.223&id=3350883&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964981_badf5608c2c0c67afa35ba86f50fe968#URLTOKEN#)][[code TAB]()]
 
 * An Effective Two-Branch Model-Based Deep Network for Single Image Deraining (2019 Arxiv)
    * Wang Yinglong et al. An Effective Two-Branch Model-Based Deep Network for Single Image Deraining. [[paper](https://arxiv.org/pdf/1905.05404.pdf)]
@@ -138,7 +138,7 @@
    * Li Guanbin et al. Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining [[paper](https://arxiv.org/pdf/1808.01491.pdf)][[code](https://github.com/AlexHex7/NLEDN)]
     
 * Dual CNN: Learning Dual Convolutional Neural Networks for Low-Level Vision (2018 CVPR)
-  * Pan Jinshan et al. Learning Dual Convolutional Neural Networks for Low-Level Vision [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and codes available](https://sites.google.com/site/jspanhomepage/dualcnn)]
+  * Pan Jinshan et al. Learning Dual Convolutional Neural Networks for Low-Level Vision [[paper](http://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dual_cnn.pdf)] [[project (trained model and code available](https://sites.google.com/site/jspanhomepage/dualcnn)]
   
 * Attentive GAN: Attentive Generative Adversarial Network for Raindrop Removal from a Single Image (2018 CVPR)
     * Qian Rui et al. Attentive Generative Adversarial Network for Raindrop Removal from a Single Image [[paper](https://arxiv.org/abs/1711.10098)]
@@ -198,10 +198,10 @@
   * Luo Yu et al. Removing rain from a single image via discriminative sparse coding.  [[paper](http://ieeexplore.ieee.org/document/7410745/)] [[code](http://www.math.nus.edu.sg/~matjh/download/image_deraining/rain_removal_v.1.1.zip)]
 
 * Restoring An Image Taken Through a Window Covered with Dirt or Rain (2013 ICCV)
-  * David Eigen et al. Restoring An Image Taken Through a Window Covered with Dirt or Rain [[paper](https://cs.nyu.edu/~deigen/rain/)][[codes](https://cs.nyu.edu/~deigen/rain/)]
+  * David Eigen et al. Restoring An Image Taken Through a Window Covered with Dirt or Rain [[paper](https://cs.nyu.edu/~deigen/rain/)][[code](https://cs.nyu.edu/~deigen/rain/)]
 
 * Automatic Single-Image-Based Rain Streaks Removal via Image Decomposition (2012 TIP)
-  * Kang Li Wei et al. Automatic Single-Image-Based Rain Streaks Removal via Image Decomposition [[paper](http://www.ee.nthu.edu.tw/cwlin/Rain_Removal/tip_rain_removal_2011.pdf)][[codes](http://www.ee.nthu.edu.tw/~cwlin/pub.htm)]
+  * Kang Li Wei et al. Automatic Single-Image-Based Rain Streaks Removal via Image Decomposition [[paper](http://www.ee.nthu.edu.tw/cwlin/Rain_Removal/tip_rain_removal_2011.pdf)][[code](http://www.ee.nthu.edu.tw/~cwlin/pub.htm)]
   
 ## 4 Video Based Deraining
 2019
