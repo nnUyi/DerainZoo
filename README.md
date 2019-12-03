@@ -37,7 +37,7 @@
 
 ### 3.2 Papers
 --------------
-2019
+#### 2019
 --
 * A Survey on Rain Removal from Video and Single Image (2019 Arxiv)
    * Hong Wang et al. A Survey on Rain Removal from Video and Single Image. [[paper](https://arxiv.org/pdf/1909.08326.pdf)][[code](https://github.com/hongwang01/Video-and-Single-Image-Deraining)]
@@ -90,7 +90,7 @@
 * Morphological Networks for Image De-raining (Arxiv2019)
    * Mondal et al. Morphological Networks for Image De-raining [[paper](https://arxiv.org/pdf/1901.02411.pdf)]
 
-2018
+#### 2018
 --
 
 * Rain Removal By Image Quasi-Sparsity Priors (Arxiv2018)
@@ -156,7 +156,7 @@
 * Single image deraining via decorrelating the rain streaks and background scene in gradient domain (2018 PR)
   * Du Shuangli et al. Single image deraining via decorrelating the rain streaks and background scene in gradient domain [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)]
 
-2017
+#### 2017
 --
 * Conditional GAN: Image De-raining Using a Conditional Generative Adversarial Network (Arxiv2017)
   * Zhang He et al. Image De-raining Using a Conditional Generative Adversarial Network. [[paper](https://arxiv.org/abs/1701.05957)] [[code](https://github.com/hezhangsprinter/ID-CGAN)] [[Project](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
@@ -187,7 +187,7 @@
 * Error-optimized sparse representation for single image rain removal (2017 TIE)
   * Chen Bohao et al. Error-optimized sparse representation for single image rain removal. [[paper](https://ieeexplore.ieee.org/abstract/document/7878618/)]
 
-2015-2016
+#### 2015-2016
 --
 * LP(GMM): Rain streak removal using layer priors (2016 CVPR, 2017 TIP)
   * Li Yu et al. Rain streak removal using layer priors. [[paper](https://ieeexplore.ieee.org/document/7780668/)]
@@ -204,12 +204,12 @@
   * Kang Li Wei et al. Automatic Single-Image-Based Rain Streaks Removal via Image Decomposition [[paper](http://www.ee.nthu.edu.tw/cwlin/Rain_Removal/tip_rain_removal_2011.pdf)][[code](http://www.ee.nthu.edu.tw/~cwlin/pub.htm)]
   
 ## 4 Video Based Deraining
-2019
+#### 2019
 --
 * D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal (2019 TIP)
    * Wenhan Yang et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal [[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][[code TAB]()]
 
-2018
+#### 2018
 --
 * MSCSC: Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding (2018 CVPR)
     * Li Minghan et al. Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding [[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)]  [[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[google site](https://sites.google.com/view/cvpr-anonymity)][[youtube](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
@@ -222,7 +222,7 @@
     * Liu Jiaying et al. Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)][[code](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)][[Prof. Jiaying Liu's homepage](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
 
 
-2017
+#### 2017
 --
 * MoG: hould We Encode Rain Streaks in Video as Deterministic or Stochastic (2017 ICCV)
   * Wei Wei et al. Should We Encode Rain Streaks in Video as Deterministic or Stochastic? [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Wei_Should_We_Encode_ICCV_2017_paper.html)] 
@@ -236,7 +236,7 @@
 * Matrix decomposition: Video Desnowing and Deraining Based on Matrix Decomposition (2017 CVPR)
   * Ren Weilong et al. Video Desnowing and Deraining Based on Matrix Decomposition. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Ren_Video_Desnowing_and_CVPR_2017_paper.html)]
 
-2015-2016
+#### 2015-2016
 --
 * Adherent raindrop modeling, detectionand removal in video (2016 TPAMI)
   * You Shaodi et al. Adherent raindrop modeling, detectionand removal in video. [[paper](https://ieeexplore.ieee.org/abstract/document/7299675/)] [[project page](http://www.cvl.iis.u-tokyo.ac.jp/~yousd/CVPR2013/Shaodi_CVPR2013.html "Not Available")]
