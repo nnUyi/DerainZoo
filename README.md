@@ -49,10 +49,10 @@
    * Youzhao Yang et al. Single Image Deraining via Recurrent Hierarchy and Enhancement Network. [[paper](http://delivery.acm.org/10.1145/3360000/3351149/p1814-yang.pdf?ip=202.120.235.180&id=3351149&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573634982_715c64cb335fa08b82d82225f1944231#URLTOKEN#)][[code](https://github.com/nnUyi/ReHEN)]
 
 * DTDN: Dual-task De-raining Network (2019 ACM MM)
-   * Wang Zheng et al. DTDN: Dual-task De-raining Network [[paper](http://delivery.acm.org/10.1145/3360000/3350945/p1833-wang.pdf?ip=202.120.235.223&id=3350945&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964912_ad2b0e3c2bc1fdb6f216a99468d1a0ea#URLTOKEN#)][[code TAB]()]
+   * Wang Zheng et al. DTDN: Dual-task De-raining Network [[paper](http://delivery.acm.org/10.1145/3360000/3350945/p1833-wang.pdf?ip=202.120.235.223&id=3350945&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964912_ad2b0e3c2bc1fdb6f216a99468d1a0ea#URLTOKEN#)][[code]]
    
 * Gradual Network for Single Image De-raining (2019 ACM MM)
-   * Yu Weijiang et al. Gradual Network for Single Image De-raining [[paper](http://delivery.acm.org/10.1145/3360000/3350883/p1795-yu.pdf?ip=202.120.235.223&id=3350883&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964981_badf5608c2c0c67afa35ba86f50fe968#URLTOKEN#)][[code TAB]()]
+   * Yu Weijiang et al. Gradual Network for Single Image De-raining [[paper](http://delivery.acm.org/10.1145/3360000/3350883/p1795-yu.pdf?ip=202.120.235.223&id=3350883&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964981_badf5608c2c0c67afa35ba86f50fe968#URLTOKEN#)][[code]]
 
 * An Effective Two-Branch Model-Based Deep Network for Single Image Deraining (2019 Arxiv)
    * Wang Yinglong et al. An Effective Two-Branch Model-Based Deep Network for Single Image Deraining. [[paper](https://arxiv.org/pdf/1905.05404.pdf)]
@@ -73,7 +73,7 @@
   * Wang Tianyu et al. Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset [[paper](https://arxiv.org/pdf/1904.01538.pdf)][[code](https://github.com/stevewongv/SPANet)][[github.io](https://stevewongv.github.io/derain-project.html)][[dataset](https://stevewongv.github.io/derain-project.html)]
 
 * Single Image Deraining: A Comprehensive Benchmark Analysis (2019 CVPR)
-   * Li Siyuan et al. Single Image Deraining: A Comprehensive Benchmark Analysis [[paper](https://arxiv.org/pdf/1903.08558.pdf)][[code](https://github.com/lsy17096535/Single-Image-Deraining)][[dataset TAB](https://github.com/lsy17096535/Single-Image-Deraining)]
+   * Li Siyuan et al. Single Image Deraining: A Comprehensive Benchmark Analysis [[paper](https://arxiv.org/pdf/1903.08558.pdf)][[code](https://github.com/lsy17096535/Single-Image-Deraining)][[dataset](https://github.com/lsy17096535/Single-Image-Deraining)]
 
 * DAF-Net: Depth-attentional Features for Single-image Rain Removal (2019 CVPR)
    * Hu Xiaowei et al. Depth-attentional Features for Single-image Rain Removal [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)][[code](https://github.com/xw-hu/DAF-Net)][[github.io](https://xw-hu.github.io/)]
@@ -210,7 +210,7 @@
 #### 2019
 --
 * D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal (2019 TIP)
-   * Wenhan Yang et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal [[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][[code TAB]()]
+   * Wenhan Yang et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal [[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][[code]()]
 
 #### 2018
 --
