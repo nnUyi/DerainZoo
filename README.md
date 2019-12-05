@@ -49,7 +49,7 @@
    * Youzhao Yang et al. Single Image Deraining via Recurrent Hierarchy and Enhancement Network. [[paper](http://delivery.acm.org/10.1145/3360000/3351149/p1814-yang.pdf?ip=202.120.235.180&id=3351149&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573634982_715c64cb335fa08b82d82225f1944231#URLTOKEN#)][[code](https://github.com/nnUyi/ReHEN)]
 
 * DTDN: Dual-task De-raining Network (2019 ACM MM)
-   * Wang Zheng et al. DTDN: Dual-task De-raining Network [[paper](http://delivery.acm.org/10.1145/3360000/3350945/p1833-wang.pdf?ip=202.120.235.223&id=3350945&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964912_ad2b0e3c2bc1fdb6f216a99468d1a0ea#URLTOKEN#)][[code]]
+   * Wang Zheng et al. DTDN: Dual-task De-raining Network [[paper](http://delivery.acm.org/10.1145/3360000/3350945/p1833-wang.pdf?ip=202.120.235.223&id=3350945&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964912_ad2b0e3c2bc1fdb6f216a99468d1a0ea#URLTOKEN#)][code]
    
 * Gradual Network for Single Image De-raining (2019 ACM MM)
    * Yu Weijiang et al. Gradual Network for Single Image De-raining [[paper](http://delivery.acm.org/10.1145/3360000/3350883/p1795-yu.pdf?ip=202.120.235.223&id=3350883&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964981_badf5608c2c0c67afa35ba86f50fe968#URLTOKEN#)][code]
@@ -119,7 +119,7 @@
 
 * Fast Single Image Rain Removal via a Deep Decomposition-Composition Network (ArXiv2018)
   * Li Siyuan et al. Fast Single Image Rain Removal via a Deep Decomposition-Composition Network [[paper](https://arxiv.org/abs/1804.02688)]
- [[Prof. Xiaojie Guo's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)] [[Prof. Wenqi Ren's homepage (code TBA)](https://sites.google.com/view/xjguo/homepage)]
+ [[Prof. Xiaojie Guo's homepage](https://sites.google.com/view/xjguo/homepage)] [[Prof. Wenqi Ren's homepage](https://sites.google.com/view/xjguo/homepage)]
  
 * Simultaneous Fidelity and Regularization Learning for Image Restoration (ArXiv2018)
   * Ren Dongwei et al. Simultaneous Fidelity and Regularization Learning for Image Restoration. [[paper](https://arxiv.org/abs/1804.04522)]
