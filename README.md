@@ -52,7 +52,7 @@
    * Wang Zheng et al. DTDN: Dual-task De-raining Network [[paper](http://delivery.acm.org/10.1145/3360000/3350945/p1833-wang.pdf?ip=202.120.235.223&id=3350945&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964912_ad2b0e3c2bc1fdb6f216a99468d1a0ea#URLTOKEN#)][[code]]
    
 * Gradual Network for Single Image De-raining (2019 ACM MM)
-   * Yu Weijiang et al. Gradual Network for Single Image De-raining [[paper](http://delivery.acm.org/10.1145/3360000/3350883/p1795-yu.pdf?ip=202.120.235.223&id=3350883&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964981_badf5608c2c0c67afa35ba86f50fe968#URLTOKEN#)][[code]]
+   * Yu Weijiang et al. Gradual Network for Single Image De-raining [[paper](http://delivery.acm.org/10.1145/3360000/3350883/p1795-yu.pdf?ip=202.120.235.223&id=3350883&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964981_badf5608c2c0c67afa35ba86f50fe968#URLTOKEN#)][code]
 
 * An Effective Two-Branch Model-Based Deep Network for Single Image Deraining (2019 Arxiv)
    * Wang Yinglong et al. An Effective Two-Branch Model-Based Deep Network for Single Image Deraining. [[paper](https://arxiv.org/pdf/1905.05404.pdf)]
@@ -179,7 +179,7 @@
   * Fu Xueyang et al. Removing rain from single images via a deep detail network. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[code](https://xueyangfu.github.io/projects/cvpr2017.html)]
   
 * JODER: Deep joint rain detection and removal from a single image (2017 CVPR)
-  * Yang Wenhan et al. Deep joint rain detection and removal from a single image. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[code)](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
+  * Yang Wenhan et al. Deep joint rain detection and removal from a single image. [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[code](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)] [[Dr. Wenhan Yang's homepage](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
  
 * Hierarchical: A Hierarchical Approach for Rain or Snow Removing in a Single Color Image (2017 TIP)
   * Wang Yinglong et al. A Hierarchical Approach for Rain or Snow Removing in a Single Color Image. [[paper](http://ieeexplore.ieee.org/abstract/document/7934435/)]
@@ -210,7 +210,7 @@
 #### 2019
 --
 * D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal (2019 TIP)
-   * Wenhan Yang et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal [[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][[code]()]
+   * Wenhan Yang et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal [[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][code]
 
 #### 2018
 --
