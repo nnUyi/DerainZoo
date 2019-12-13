@@ -13,7 +13,7 @@
 * SSIM (Structural Similarity) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1284395) [[matlab code]](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) [[python code]](https://github.com/aizvorski/video-quality/blob/master/ssim.py)
 * VIF (Visual Quality) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1576816) [[matlab code]](http://sse.tongji.edu.cn/linzhang/IQA/Evalution_VIF/eva-VIF.htm)
 * FSIM (Feature Similarity) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5705575) [[matlab code]](http://sse.tongji.edu.cn/linzhang/IQA/FSIM/FSIM.htm)
-* NIQE (Naturalness Image Quality Evaluator) [[paper](http://live.ece.utexas.edu/research/Quality/niqe_spl.pdf)][[matlab Code](http://live.ece.utexas.edu/research/Quality/index_algorithms.htm)] [[python Code](https://github.com/aizvorski/video-quality/blob/master/niqe.py)]
+* NIQE (Naturalness Image Quality Evaluator) [[paper](http://live.ece.utexas.edu/research/Quality/niqe_spl.pdf)][[matlab code](http://live.ece.utexas.edu/research/Quality/index_algorithms.htm)] [[python code](https://github.com/aizvorski/video-quality/blob/master/niqe.py)]
 
 **Image & Video Quality Assessment Algorithms [[software release](http://live.ece.utexas.edu/research/Quality/index_algorithms.htm)][[Texas Lab](http://live.ece.utexas.edu/research/quality/)]**
 
