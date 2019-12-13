@@ -15,7 +15,7 @@
 * FSIM (Feature Similarity) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5705575) [[matlab code]](http://sse.tongji.edu.cn/linzhang/IQA/FSIM/FSIM.htm)
 * NIQE (Naturalness Image Quality Evaluator) [[paper](http://live.ece.utexas.edu/research/Quality/niqe_spl.pdf)][[matlab Code](http://live.ece.utexas.edu/research/Quality/index_algorithms.htm)] [[python Code](https://github.com/aizvorski/video-quality/blob/master/niqe.py)]
 
-**Image & Video Quality Assessment Algorithms [[software release](Software Releases)][[Texas Lab](http://live.ece.utexas.edu/research/quality/)]**
+**Image & Video Quality Assessment Algorithms [[software release](http://live.ece.utexas.edu/research/Quality/index_algorithms.htm)][[Texas Lab](http://live.ece.utexas.edu/research/quality/)]**
 
 ## 3 Single Image Deraining
 ### 3.1 Datasets
