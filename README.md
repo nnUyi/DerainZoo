@@ -50,7 +50,7 @@
    * Yang, Youzhao et al. Single Image Deraining via Recurrent Hierarchy and Enhancement Network.
 
 * DTDN(2019 ACM'MM)[[paper](http://delivery.acm.org/10.1145/3360000/3350945/p1833-wang.pdf?ip=202.120.235.223&id=3350945&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964912_ad2b0e3c2bc1fdb6f216a99468d1a0ea#URLTOKEN#)][code][web]
-   * Wang Zheng et al. DTDN: Dual-task De-raining Network.
+   * Wang, Zheng et al. DTDN: Dual-task De-raining Network.
    
 * GraNet(2019 ACM'MM)[[paper](http://delivery.acm.org/10.1145/3360000/3350883/p1795-yu.pdf?ip=202.120.235.223&id=3350883&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572964981_badf5608c2c0c67afa35ba86f50fe968#URLTOKEN#)][code][web]
    * Yu, Weijiang et al. Gradual Network for Single Image De-raining. 
@@ -74,16 +74,16 @@
   * Wang, Tianyu et al. Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset.
 
 * Comprehensive Benchmark Analysis (2019 CVPR)[[paper](https://arxiv.org/pdf/1903.08558.pdf)][[code](https://github.com/lsy17096535/Single-Image-Deraining)][[dataset](https://github.com/lsy17096535/Single-Image-Deraining)]
-   * Li Siyuan et al. Single Image Deraining: A Comprehensive Benchmark Analysis.
+   * Li, Siyuan et al. Single Image Deraining: A Comprehensive Benchmark Analysis.
 
 * DAF-Net(2019 CVPR)[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)][[code](https://github.com/xw-hu/DAF-Net)][[web](https://xw-hu.github.io/)]
-   * Hu Xiaowei et al. Depth-attentional Features for Single-image Rain Removal.
+   * Hu, Xiaowei et al. Depth-attentional Features for Single-image Rain Removal.
 
 *  Semi-supervised Transfer Learning(2019 CVPR)[[paper](https://arxiv.org/pdf/1807.11078.pdf)][[code](https://github.com/wwzjer/Semi-supervised-IRR)][web]
    * Wei, Wei et al. Semi-supervised Transfer Learning for Image Rain Removal.
 
 *  PReNet(2019 CVPR)[[paper](https://arxiv.org/pdf/1901.09221.pdf)][[code](https://github.com/csdwren/PReNet)][web]
-   * Ren Dongwei et al. Progressive Image Deraining Networks: A Better and Simpler Baseline. 
+   * Ren, Dongwei et al. Progressive Image Deraining Networks: A Better and Simpler Baseline. 
 
 *  RR-GAN(2019 AAAI)[[paper](http://vijaychan.github.io/Publications/2019_derain.pdf)][code][web]
    * Zhu, Hongyuan et al. RR-GAN: Single Image Rain Removal Without Paired Information.
@@ -98,22 +98,22 @@
 --
 
 * QS Priors(Arxiv2018)[[paper](https://arxiv.org/pdf/1812.08348.pdf)][code][web]
-   * Wang et. al. Rain Removal By Image Quasi-Sparsity Priors.
+   * Wang et al. Rain Removal By Image Quasi-Sparsity Priors.
 
 * Linear model(Arxiv2018)[[paper](https://arxiv.org/pdf/1812.07870.pdf)][code][web]
-   * Wang et. al. Removing rain streaks by a linear model.
+   * Wang et al. Removing rain streaks by a linear model.
 
 * Kernel Guided CNN(Arxiv2018)[[paper](https://arxiv.org/pdf/1808.08545.pdf)][code][web]
-   * Deng et. al. Rain Streak Removal for Single Image via Kernel Guided CNN.
+   * Deng et al. Rain Streak Removal for Single Image via Kernel Guided CNN.
 
 * Physics-Based GAM(Arxiv2018)[[paper](https://arxiv.org/pdf/1808.00605.pdf)][[code](https://sites.google.com/site/jspanhomepage/physicsgan/)][web]
    * Pan, Jinshan et al. Physics-Based Generative Adversarial Models for Image Restoration and Beyond. 
    
 * Self-supervised Constraints(Arxiv2018)[[paper](https://arxiv.org/pdf/1811.08575.pdf)][code][paper]
-  * Jin et. al. Unsupervised Single Image Deraining with Self-supervised Constraints.
+  * Jin et al. Unsupervised Single Image Deraining with Self-supervised Constraints.
 
 * SRSE-Net(Arxiv2018)[[paper](https://arxiv.org/pdf/1811.04761.pdf)][code][web]
-  * Ye et. al. Self-Refining Deep Symmetry Enhanced Network for Rain Removal.
+  * Ye et al. Self-Refining Deep Symmetry Enhanced Network for Rain Removal.
   
 * Tree-Structured Fusion Model(Arxiv2018)[[paper](https://arxiv.org/pdf/1811.08632.pdf)][code][web]
   * Fu, Xueyang et. al. A Deep Tree-Structured Fusion Model for Single Image Deraining.
@@ -132,7 +132,7 @@
    * Pu, Jinchuan et al. Removing rain based on a Cycle Generative Adversarial Network.
 
 *  RESCAN(2018 ECCV)[[paper](https://arxiv.org/pdf/1807.05698.pdf)][[code](https://xialipku.github.io/RESCAN/)][[web](https://xialipku.github.io/RESCAN/)]
-   * Li Xia et al. Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining.
+   * Li, Xia et al. Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining.
 
 * RGFFN(2018 ACM'MM)[[paper](https://arxiv.org/abs/1804.07493)][code][web]
   * Fan, Zhiwen et al. Residual-Guide Feature Fusion Network for Single Image Deraining.
@@ -164,7 +164,7 @@
   * Zhang, He et al. Image De-raining Using a Conditional Generative Adversarial Network.
 
 * Transformed Low-Rank Model(2017 ICCV)[[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Chang_Transformed_Low-Rank_Model_ICCV_2017_paper.html)][code][web]
-  * Chang Yi et al. Transformed Low-Rank Model for Line Pattern Noise Removal.
+  * Chang, Yi et al. Transformed Low-Rank Model for Line Pattern Noise Removal.
 
 * JBO(2017 ICCV)[[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.html)][code][[web](http://appsrv.cse.cuhk.edu.hk/~lzhu/)] 
   * Wei, Wei et al. Joint Bi-layer Optimization for Single-image Rain Streak Removal.
@@ -190,24 +190,24 @@
 #### 2015-2016
 --
 * LP(GMM)(2016 CVPR, 2017 TIP)
-  * Li Yu et al. Rain streak removal using layer priors. [[paper](https://ieeexplore.ieee.org/document/7780668/)][code][web]
-  * Li Yu et al. Single Image Rain Streak Decomposition Using Layer Priors. [[paper](https://ieeexplore.ieee.org/abstract/document/7934436/)]
+  * Li, Yu et al. Rain streak removal using layer priors. [[paper](https://ieeexplore.ieee.org/document/7780668/)][code][web]
+  * Li, Yu et al. Single Image Rain Streak Decomposition Using Layer Priors. [[paper](https://ieeexplore.ieee.org/abstract/document/7934436/)]
  [[dataset](http://yu-li.github.io/paper/li_cvpr16_rain.zip)][[web](http://yu-li.github.io/)]
 
 * DSC(2015 ICCV)[[paper](http://ieeexplore.ieee.org/document/7410745/)][[code](http://www.math.nus.edu.sg/~matjh/download/image_deraining/rain_removal_v.1.1.zip)][web]
-  * Luo Yu et al. Removing rain from a single image via discriminative sparse coding.
+  * Luo, Yu et al. Removing rain from a single image via discriminative sparse coding.
 
 * Window Covered(2013 ICCV)[[paper](https://cs.nyu.edu/~deigen/rain/)][[code](https://cs.nyu.edu/~deigen/rain/)][web]
   * David, Eigen et al. Restoring An Image Taken Through a Window Covered with Dirt or Rain.
 
 * Image Decomposition (2012 TIP)[paper](http://www.ee.nthu.edu.tw/cwlin/Rain_Removal/tip_rain_removal_2011.pdf)][[code](http://www.ee.nthu.edu.tw/~cwlin/pub.htm)][web]
-  * Kang,Liwei et al. Automatic Single-Image-Based Rain Streaks Removal via Image Decomposition.[
+  * Kang, Liwei et al. Automatic Single-Image-Based Rain Streaks Removal via Image Decomposition.[
   
 ## 4 Video Based Deraining
 #### 2019
 --
 * D3R-Net(2019 TIP)[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][code][web]
-   * Yang Wenhan et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal.
+   * Yang, Wenhan et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal.
 
 #### 2018
 --
@@ -216,7 +216,7 @@
 
 * CNN Framework (2018 CVPR)[[paper](https://arxiv.org/abs/1803.10433)][cpde][[web Chen](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[web Chau](http://www.ntu.edu.sg/home/elpchau/)]
   * Chen, Jie et al. Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework.
-  * Chen Jie et al. Robust Video Content Alignment and Compensation for Clear Vision Through the Rain [[paper](https://arxiv.org/abs/1804.09555)][code][web](*tips: I guess this is the extended journal version*)
+  * Chen, Jie et al. Robust Video Content Alignment and Compensation for Clear Vision Through the Rain [[paper](https://arxiv.org/abs/1804.09555)][code][web](*tips: I guess this is the extended journal version*)
 
 * Erase or Fill(2018 CVPR)[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)][[code](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)][[web Liu](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[web Yang](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
     * Liu, Jiaying et al. Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos. 
