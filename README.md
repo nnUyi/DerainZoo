@@ -151,7 +151,6 @@
 * Directional global sparse model [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
  [[code](http://www.escience.cn/system/file?fileId=98760)][[web](http://www.escience.cn/people/dengliangjian/index.html)]
   * Deng, Liangjian et al. A directional global sparse model for single image rain removal. (2018 AMM)
-(*tips: I am the last author, and your can also find the implemention in this repository*)
 
 * Gradient domain [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)][code][web]
   * Du, Shuangli et al. Single image deraining via decorrelating the rain streaks and background scene in gradient domain. (2018 PR)
