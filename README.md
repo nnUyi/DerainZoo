@@ -91,40 +91,40 @@
    * Fu, Xueyang et al. Lightweight Pyramid Networks for Image Deraining. (2019 TNNLS)
 
 * Morphological Networks [[paper](https://arxiv.org/pdf/1901.02411.pdf)][code][web]
-   * Mondal et al. Morphological Networks for Image De-raining. (Arxiv2019)
+   * Mondal et al. Morphological Networks for Image De-raining. (2019 Arxiv)
 
 ### 2018
 
 * QS Priors [[paper](https://arxiv.org/pdf/1812.08348.pdf)][code][web]
-   * Wang et al. Rain Removal By Image Quasi-Sparsity Priors. (Arxiv2018)
+   * Wang et al. Rain Removal By Image Quasi-Sparsity Priors. (2018 Arxiv)
 
 * Linear model [[paper](https://arxiv.org/pdf/1812.07870.pdf)][code][web]
-   * Wang et al. Removing rain streaks by a linear model. (Arxiv2018)
+   * Wang et al. Removing rain streaks by a linear model. (2018 Arxiv)
 
 * Kernel Guided CNN [[paper](https://arxiv.org/pdf/1808.08545.pdf)][code][web]
-   * Deng et al. Rain Streak Removal for Single Image via Kernel Guided CNN. (Arxiv2018)
+   * Deng et al. Rain Streak Removal for Single Image via Kernel Guided CNN. (2018 Arxiv)
 
 * Physics-Based GAM [[paper](https://arxiv.org/pdf/1808.00605.pdf)][[code](https://sites.google.com/site/jspanhomepage/physicsgan/)][web]
-   * Pan, Jinshan et al. Physics-Based Generative Adversarial Models for Image Restoration and Beyond. (Arxiv2018)
+   * Pan, Jinshan et al. Physics-Based Generative Adversarial Models for Image Restoration and Beyond. (2018 Arxiv)
    
 * Self-supervised Constraints [[paper](https://arxiv.org/pdf/1811.08575.pdf)][code][paper]
-  * Jin et al. Unsupervised Single Image Deraining with Self-supervised Constraints. (Arxiv2018)
+   * Jin et al. Unsupervised Single Image Deraining with Self-supervised Constraints. (2018 Arxiv)
 
 * SRSE-Net [[paper](https://arxiv.org/pdf/1811.04761.pdf)][code][web]
-  * Ye et al. Self-Refining Deep Symmetry Enhanced Network for Rain Removal. (Arxiv2018)
+   * Ye et al. Self-Refining Deep Symmetry Enhanced Network for Rain Removal. (2018 Arxiv)
   
 * Tree-Structured Fusion Model [[paper](https://arxiv.org/pdf/1811.08632.pdf)][code][web]
-  * Fu, Xueyang et. al. A Deep Tree-Structured Fusion Model for Single Image Deraining. (Arxiv2018)
+   * Fu, Xueyang et. al. A Deep Tree-Structured Fusion Model for Single Image Deraining. (2018 Arxiv)
 
 * Deep DCNet [[paper](https://arxiv.org/abs/1804.02688)][code]
  [[web1](https://sites.google.com/view/xjguo/homepage)] [[web2](https://sites.google.com/view/xjguo/homepage)]
-  * Li, Siyuan et al. Fast Single Image Rain Removal via a Deep Decomposition-Composition Network. (ArXiv2018)
+   * Li, Siyuan et al. Fast Single Image Rain Removal via a Deep Decomposition-Composition Network. (ArXiv2018)
  
 *  SFARL Model [[paper](https://arxiv.org/abs/1804.04522)][code][[web](https://sites.google.com/site/csrendw/home)]
-  * Ren, Dongwei et al. Simultaneous Fidelity and Regularization Learning for Image Restoration. (ArXiv2018)
+   * Ren, Dongwei et al. Simultaneous Fidelity and Regularization Learning for Image Restoration. (ArXiv2018)
 
 * GCAN [[paper](https://arxiv.org/pdf/1811.08747.pdf)][[code](https://github.com/cddlyf/GCANet)][web]
-  * Chen et. al. Gated Context Aggregation Network for Image Dehazing and Deraining. (2018 WACV)
+   * Chen et. al. Gated Context Aggregation Network for Image Dehazing and Deraining. (2018 WACV)
   
 * Cycle-GAN [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397790)][code][web]
    * Pu, Jinchuan et al. Removing rain based on a Cycle Generative Adversarial Network. (2018 ICIEA)
@@ -133,7 +133,7 @@
    * Li, Xia et al. Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining. (2018 ECCV)
 
 * RGFFN [[paper](https://arxiv.org/abs/1804.07493)][code][web]
-  * Fan, Zhiwen et al. Residual-Guide Feature Fusion Network for Single Image Deraining. (2018 ACM'MM)
+   * Fan, Zhiwen et al. Residual-Guide Feature Fusion Network for Single Image Deraining. (2018 ACM'MM)
 
 * NLEDN [[paper](https://arxiv.org/pdf/1808.01491.pdf)][[code](https://github.com/AlexHex7/NLEDN)][web]
    * Li, Guanbin et al. Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining. (2018 ACM'MM)
@@ -158,7 +158,7 @@
 
 ### 2017
 * ID_CGAN [[paper](https://arxiv.org/abs/1701.05957)][[code](https://github.com/hezhangsprinter/ID-CGAN)] [[web](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
-  * Zhang, He et al. Image De-raining Using a Conditional Generative Adversarial Network. (Arxiv2017)
+  * Zhang, He et al. Image De-raining Using a Conditional Generative Adversarial Network. (2017 Arxiv)
 
 * Transformed Low-Rank Model [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Chang_Transformed_Low-Rank_Model_ICCV_2017_paper.html)][code][web]
   * Chang, Yi et al. Transformed Low-Rank Model for Line Pattern Noise Removal. (2017 ICCV)
@@ -201,14 +201,14 @@
   
 ## 4 Video Based Deraining
 ### 2019
-* D3R-Net [paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][code][web]
+* D3R-Net [[paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][code][web]
    * Yang, Wenhan et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal. (2019 TIP)
 
 ### 2018
 * MSCSC [[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)][[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[web](https://sites.google.com/view/cvpr-anonymity)][[video](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
     * Li, Minghan et al. Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding. (2018 CVPR)
 
-* CNN Framework [[paper](https://arxiv.org/abs/1803.10433)][cpde][[web Chen](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[web Chau](http://www.ntu.edu.sg/home/elpchau/)]
+* CNN Framework [[paper](https://arxiv.org/abs/1803.10433)][code][[web Chen](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[web Chau](http://www.ntu.edu.sg/home/elpchau/)]
   * Chen, Jie et al. Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework. (2018 CVPR)
   * Chen, Jie et al. Robust Video Content Alignment and Compensation for Clear Vision Through the Rain [[paper](https://arxiv.org/abs/1804.09555)][code][web](*tips: I guess this is the extended journal version*)
 
