@@ -38,8 +38,7 @@
 
 ### 3.2 Papers
 --------------
-#### 2019
---
+### 2019
 * Survey [[paper](https://arxiv.org/pdf/1909.08326.pdf)][[code](https://github.com/hongwang01/Video-and-Single-Image-Deraining)][web]
    * Wang, Hong et al. A Survey on Rain Removal from Video and Single Image. (2019 Arxiv)
 
@@ -94,8 +93,7 @@
 * Morphological Networks [[paper](https://arxiv.org/pdf/1901.02411.pdf)][code][web]
    * Mondal et al. Morphological Networks for Image De-raining. (Arxiv2019)
 
-#### 2018
---
+### 2018
 
 * QS Priors [[paper](https://arxiv.org/pdf/1812.08348.pdf)][code][web]
    * Wang et al. Rain Removal By Image Quasi-Sparsity Priors. (Arxiv2018)
@@ -158,8 +156,7 @@
 * Gradient domain [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318300700)][code][web]
   * Du, Shuangli et al. Single image deraining via decorrelating the rain streaks and background scene in gradient domain. (2018 PR)
 
-#### 2017
---
+### 2017
 * ID_CGAN [[paper](https://arxiv.org/abs/1701.05957)][[code](https://github.com/hezhangsprinter/ID-CGAN)] [[web](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
   * Zhang, He et al. Image De-raining Using a Conditional Generative Adversarial Network. (Arxiv2017)
 
@@ -187,8 +184,7 @@
 * Error-optimized Sparse Representation [[paper](https://ieeexplore.ieee.org/abstract/document/7878618/)][code][web]
   * Chen, Bohao et al. Error-optimized sparse representation for single image rain removal. (2017 TIE)
 
-#### 2015-2016
---
+### 2015-2016
 * LP(GMM) (2016 CVPR, 2017 TIP)
   * Li, Yu et al. Rain streak removal using layer priors. [[paper](https://ieeexplore.ieee.org/document/7780668/)][code][web]
   * Li, Yu et al. Single Image Rain Streak Decomposition Using Layer Priors. [[paper](https://ieeexplore.ieee.org/abstract/document/7934436/)]
@@ -204,13 +200,11 @@
   * Kang, Liwei et al. Automatic Single-Image-Based Rain Streaks Removal via Image Decomposition. (2012 TIP)
   
 ## 4 Video Based Deraining
-#### 2019
---
+### 2019
 * D3R-Net [paper](http://www.icst.pku.edu.cn/struct/Pub%20Files/2019/ywh_tip19.pdf)][code][web]
    * Yang, Wenhan et al. D3R-Net: Dynamic Routing Residue Recurrent Network for Video Rain Removal. (2019 TIP)
 
-#### 2018
---
+### 2018
 * MSCSC [[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)][[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)] [[web](https://sites.google.com/view/cvpr-anonymity)][[video](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
     * Li, Minghan et al. Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding. (2018 CVPR)
 
@@ -221,8 +215,7 @@
 * Erase or Fill [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Erase_or_Fill_CVPR_2018_paper.pdf)][[code](https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018)][[web Liu](http://www.icst.pku.edu.cn/struct/people/liujiaying.html)] [[web Yang](http://www.icst.pku.edu.cn/struct/people/whyang.html)]
     * Liu, Jiaying et al. Erase or Fill? Deep Joint Recurrent Rain Removal and Reconstruction in Videos. (2018 CVPR)
 
-#### 2017
---
+### 2017
 * MoG [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Wei_Should_We_Encode_ICCV_2017_paper.html)] 
 [[code](https://github.com/wwxjtu/RainRemoval_ICCV2017)][[web](https://github.com/wwxjtu/RainRemoval_ICCV2017)]
   * Wei, Wei et al. Should We Encode Rain Streaks in Video as Deterministic or Stochastic? (2017 ICCV)
@@ -233,8 +226,7 @@
 * Matrix Decomposition [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Ren_Video_Desnowing_and_CVPR_2017_paper.html)][code][web]
   * Ren, Weilong et al. Video Desnowing and Deraining Based on Matrix Decomposition. (2017 CVPR)
 
-#### 2015-2016
---
+### 2015-2016
 * Adherent Raindrop Modeling [[paper](https://ieeexplore.ieee.org/abstract/document/7299675/)][code][[web](http://www.cvl.iis.u-tokyo.ac.jp/~yousd/CVPR2013/Shaodi_CVPR2013.html "Not Available)]
   * You, Shaodi et al. Adherent raindrop modeling, detectionand removal in video. (2016 TPAMI)
 
