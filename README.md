@@ -40,11 +40,11 @@
 --------------
 #### 2019
 --
-* Survey(2019 Arxiv)
-   * Wang, Hong et al. A Survey on Rain Removal from Video and Single Image. [[paper](https://arxiv.org/pdf/1909.08326.pdf)][[code](https://github.com/hongwang01/Video-and-Single-Image-Deraining)]
+* Survey(2019 Arxiv)[[paper](https://arxiv.org/pdf/1909.08326.pdf)][[code](https://github.com/hongwang01/Video-and-Single-Image-Deraining)]
+   * Wang, Hong et al. A Survey on Rain Removal from Video and Single Image.
 
-* ERL-Net(2019 ICCV)
-   * Wang, Guoqing Wang et al. ERL-Net: Entangled Representation Learning for Single Image De-Raining. [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ERL-Net_Entangled_Representation_Learning_for_Single_Image_De-Raining_ICCV_2019_paper.pdf)][[code](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)][web]
+* ERL-Net(2019 ICCV)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ERL-Net_Entangled_Representation_Learning_for_Single_Image_De-Raining_ICCV_2019_paper.pdf)][[code](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)][web]
+   * Wang, Guoqing Wang et al. ERL-Net: Entangled Representation Learning for Single Image De-Raining. 
 
 * ReHEN(2019 ACM'MM)
    * Yang, Youzhao et al. Single Image Deraining via Recurrent Hierarchy and Enhancement Network. [[paper](http://delivery.acm.org/10.1145/3360000/3351149/p1814-yang.pdf?ip=202.120.235.180&id=3351149&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573634982_715c64cb335fa08b82d82225f1944231#URLTOKEN#)][[code](https://github.com/nnUyi/ReHEN)][[web](https://nnuyi.github.io/)]
