@@ -39,11 +39,14 @@
 ### 3.2 Papers
 --------------
 ### 2019
+* DPRDN [[paper](https://arxiv.org/pdf/1908.10521.pdf)][code][web]
+   * Wei, Yanyan et al. A Coarse-to-Fine Multi-stream Hybrid Deraining Network for Single Image Deraining. (2019 ICDM)
+   
 * Survey [[paper](https://arxiv.org/pdf/1909.08326.pdf)][[code](https://github.com/hongwang01/Video-and-Single-Image-Deraining)][web]
    * Wang, Hong et al. A Survey on Rain Removal from Video and Single Image. (2019 Arxiv)
 
 * ERL-Net [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ERL-Net_Entangled_Representation_Learning_for_Single_Image_De-Raining_ICCV_2019_paper.pdf)][[code](https://github.com/RobinCSIRO/ERL-Net-for-Single-Image-Deraining)][web]
-   * Wang, Guoqing Wang et al. ERL-Net: Entangled Representation Learning for Single Image De-Raining. (2019 ICCV)
+   * Wang, Guoqing et al. ERL-Net: Entangled Representation Learning for Single Image De-Raining. (2019 ICCV)
 
 * ReHEN [[paper](http://delivery.acm.org/10.1145/3360000/3351149/p1814-yang.pdf?ip=202.120.235.180&id=3351149&acc=OPEN&key=BF85BBA5741FDC6E%2E88014DC677A1F2C3%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573634982_715c64cb335fa08b82d82225f1944231#URLTOKEN#)][[code](https://github.com/nnUyi/ReHEN)][[web](https://nnuyi.github.io/)]
    * Yang, Youzhao et al. Single Image Deraining via Recurrent Hierarchy and Enhancement Network. (2019 ACM'MM)
