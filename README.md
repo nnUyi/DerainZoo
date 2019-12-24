@@ -39,6 +39,9 @@
 ### 3.2 Papers
 --------------
 ### 2019
+* RWL [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8610325)][code][web]
+   * Yang, Wenhan et al. Scale-Free Single Image Deraining Via VisibilityEnhanced Recurrent Wavelet Learning. (2019 TIP)
+
 * DPRDN [[paper](https://arxiv.org/pdf/1908.10521.pdf)][code][web]
    * Wei, Yanyan et al. A Coarse-to-Fine Multi-stream Hybrid Deraining Network for Single Image Deraining. (2019 ICDM)
    
