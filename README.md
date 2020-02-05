@@ -39,6 +39,9 @@
 ### 3.2 Papers
 --------------
 ### 2019
+* Survey [[paper](https://arxiv.org/pdf/1912.07150.pdf)][code][web]
+   * Yang, Wenhan et al. Single Image Deraining: From Model-Based to Data-Driven and Beyond. (2019 TPAMI)
+   
 * RWL [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8610325)][code][web]
    * Yang, Wenhan et al. Scale-Free Single Image Deraining Via VisibilityEnhanced Recurrent Wavelet Learning. (2019 TIP)
 
