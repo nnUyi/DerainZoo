@@ -38,6 +38,10 @@
 
 ### 3.2 Papers
 --------------
+### 2020
+* VID [[paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Du_Variational_Image_Deraining_WACV_2020_paper.pdf)][code][[web](https://csjunxu.github.io/)]
+   * Xu, Jun et al. Variational Image Deraining. (2020 WACV)
+
 ### 2019
 * Survey [[paper](https://arxiv.org/pdf/1912.07150.pdf)][code][web]
    * Yang, Wenhan et al. Single Image Deraining: From Model-Based to Data-Driven and Beyond. (2019 TPAMI)
