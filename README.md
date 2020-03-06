@@ -42,6 +42,9 @@
 * VID [[paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Du_Variational_Image_Deraining_WACV_2020_paper.pdf)][code][[web](https://csjunxu.github.io/)]
    * Xu, Jun et al. Variational Image Deraining. (2020 WACV)
 
+* CMGD [[paper](https://ieeexplore.ieee.org/abstract/document/9007569)][code][[web](https://github.com/rajeevyasarla)]
+   * Rajeev Yasarla et al. Confidence Measure Guided Single Image De-Raining. (2020 TIP)
+
 ### 2019
 * Survey [[paper](https://arxiv.org/pdf/1912.07150.pdf)][code][web]
    * Yang, Wenhan et al. Single Image Deraining: From Model-Based to Data-Driven and Beyond. (2019 TPAMI)
@@ -96,6 +99,9 @@
 
 * PReNet [[paper](https://arxiv.org/pdf/1901.09221.pdf)][[code](https://github.com/csdwren/PReNet)][web]
    * Ren, Dongwei et al. Progressive Image Deraining Networks: A Better and Simpler Baseline. (2019 CVPR)
+
+* UMRL-using-Cycle-Spinning [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yasarla_Uncertainty_Guided_Multi-Scale_Residual_Learning-Using_a_Cycle_Spinning_CNN_for_CVPR_2019_paper.pdf)][[code](https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning)][[web](https://github.com/rajeevyasarla)]
+   * Rajeev Yasarla et al. Uncertainty Guided Multi-Scale Residual Learning-using a Cycle Spinning CNN for Single Image De-Raining. (2019 CVPR)
 
 * RR-GAN [[paper](http://vijaychan.github.io/Publications/2019_derain.pdf)][code][web]
    * Zhu, Hongyuan et al. RR-GAN: Single Image Rain Removal Without Paired Information. (2019 AAAI)
