@@ -39,6 +39,12 @@
 ### 3.2 Papers
 --------------
 ### 2020
+* MSPFN [[paper](https://arxiv.org/pdf/2003.10985.pdf)][[code](https://github.com/kuihua/MSPFN)][[web](https://github.com/kuihua)]
+   * Jiang Kui et al. Multi-Scale Progressive Fusion Network for Single Image Deraining. (2020 CVPR)
+
+* Physical Model Guided ID [[paper](https://arxiv.org/pdf/2003.13242.pdf)][[code](https://supercong94.wixsite.com/supercong94)][[web](https://supercong94.wixsite.com/supercong94)]
+   * Cong Wang et al. Physical Model Guided Deep Image Deraining. (2020 ICME)
+
 * RDDAN [paper][[code](https://github.com/nnUyi/RDDAN)][[website](https://github.com/nnUyi)]
    * Yang, Youzhao et al. RDDAN: A Residual Dense Dilated Aggregated Network for Single Image Deraining. (2020 ICME)
    
