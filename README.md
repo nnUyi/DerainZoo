@@ -39,6 +39,9 @@
 ### 3.2 Papers
 --------------
 ### 2020
+* CVID [[paper](https://arxiv.org/pdf/2004.11373.pdf)][[code](https://github.com/Yingjun-Du/VID)][[web](https://github.com/Yingjun-Du)]
+   * Du, Yingjun etc. Conditional Variational Image Deraining. (2020 TIP)
+
 * MSPFN [[paper](https://arxiv.org/pdf/2003.10985.pdf)][[code](https://github.com/kuihua/MSPFN)][[web](https://github.com/kuihua)]
    * Jiang Kui et al. Multi-Scale Progressive Fusion Network for Single Image Deraining. (2020 CVPR)
 
