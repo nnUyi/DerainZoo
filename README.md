@@ -41,6 +41,9 @@
 ### 2020
 * CVID [[paper](https://arxiv.org/pdf/2004.11373.pdf)][[code](https://github.com/Yingjun-Du/VID)][[web](https://github.com/Yingjun-Du)]
    * Du, Yingjun etc. Conditional Variational Image Deraining. (2020 TIP)
+   
+* Syn2Rel [[paper](https://arxiv.org/pdf/2006.05580.pdf)][[web](https://github.com/rajeevyasarla)][[code](https://github.com/rajeevyasarla/Syn2Real)]
+   * Rajeev Yasarla et al. Syn2Real Transfer Learning for Image Deraining using Gaussian Processes. (2020 CVPR)
 
 * MSPFN [[paper](https://arxiv.org/pdf/2003.10985.pdf)][[code](https://github.com/kuihua/MSPFN)][[web](https://github.com/kuihua)]
    * Jiang Kui et al. Multi-Scale Progressive Fusion Network for Single Image Deraining. (2020 CVPR)
