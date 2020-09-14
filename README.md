@@ -42,6 +42,9 @@
 * CVID [[paper](https://arxiv.org/pdf/2004.11373.pdf)][[code](https://github.com/Yingjun-Du/VID)][[web](https://github.com/Yingjun-Du)]
    * Du, Yingjun etc. Conditional Variational Image Deraining. (2020 TIP)
 
+* DRD-Net [[paper]()][[web](https://github.com/Dengsgithub)][[code](https://github.com/Dengsgithub/DRD-Net)]
+  * Deng, Sen etc. Detail-recovery Image Deraining via Context Aggregation Networks. (2020 CVPR)
+
 * RCDNet [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)][[web]()][[code](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Wang_A_Model-Driven_Deep_CVPR_2020_supplemental.pdf)]
   * Wang, Hong etc. A Model-driven Deep Neural Network for Single Image Rain Removal. (2020 CVPR)
 
