@@ -39,6 +39,9 @@
 ### 3.2 Papers
 --------------
 ### 2020
+* DCSFN [[paper](https://arxiv.org/pdf/2008.00767.pdf)][[code]()][[web]()]
+   * Wang, Cong etc. DCSFN: Deep Cross-scale Fusion Network for Single Image Rain Removal. (2020 ACMMM)
+
 * CVID [[paper](https://arxiv.org/pdf/2004.11373.pdf)][[code](https://github.com/Yingjun-Du/VID)][[web](https://github.com/Yingjun-Du)]
    * Du, Yingjun etc. Conditional Variational Image Deraining. (2020 TIP)
 
