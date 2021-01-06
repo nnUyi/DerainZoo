@@ -38,6 +38,10 @@
 
 ### 3.2 Papers
 --------------
+### 2021
+* IPT [[[paper](https://arxiv.org/pdf/2012.00364.pdf)][[code]()][[web]()]
+   * Chen, Hanting etc. Pre-Trained Image Processing Transformer. (Arxiv 2020)
+
 ### 2020
 * DCSFN [[paper](https://arxiv.org/pdf/2008.00767.pdf)][[code]( https://github.com/Ohraincu/DCSFN)][[web]( https://github.com/Ohraincu)]
    * Wang, Cong etc. DCSFN: Deep Cross-scale Fusion Network for Single Image Rain Removal. (2020 ACMMM)
