@@ -43,7 +43,16 @@
    * Chen, Hanting etc. Pre-Trained Image Processing Transformer. (Arxiv 2020)
 
 ### 2020
-* DCSFN [[paper](https://arxiv.org/pdf/2008.00767.pdf)][[code]( https://github.com/Ohraincu/DCSFN)][[web]( https://github.com/Ohraincu)]
+* WDNet [[paper](https://arxiv.org/pdf/2008.00823.pdf)][[code]()][[web]()]
+   * Liu, Lin etc. Wavelet-Based Dual-Branch Network for Image Demoir´eing. (2020 ECCV)
+
+* Rethinking Image Deraining [[paper](https://arxiv.org/pdf/2008.00823.pdf)][[code](https://github.com/yluestc/derain)][[web](https://github.com/yluestc)]
+   * Wang, Yinglong etc. Rethinking Image Deraining via Rain Streaks and Vapors. (2020 ECCV)
+
+* JDNet [[paper](https://arxiv.org/pdf/2008.02763.pdf)][[code](https://github.com/Ohraincu/JDNet)][[web](https://github.com/Ohraincu)]
+   * Wang, Cong etc. Joint Self-Attention and Scale-Aggregation for Self-Calibrated Deraining Network. (2020 ACMMM)
+
+* DCSFN [[paper](https://arxiv.org/pdf/2008.00767.pdf)][[code]( https://github.com/Ohraincu/DCSFN)][[web](https://github.com/Ohraincu)]
    * Wang, Cong etc. DCSFN: Deep Cross-scale Fusion Network for Single Image Rain Removal. (2020 ACMMM)
 
 * CVID [[paper](https://arxiv.org/pdf/2004.11373.pdf)][[code](https://github.com/Yingjun-Du/VID)][[web](https://github.com/Yingjun-Du)]
