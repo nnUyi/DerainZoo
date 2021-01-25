@@ -9,7 +9,7 @@
   * [Rain100L_CVPR2017](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html) in [JORDER](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)
   
   * [Rain100H_CVPR2017 new version](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html) in [JORDER](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)
-    * **Note that Rain100H provided by Yang et al. is updated in their [websit](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html). Original version contains 1800 clean/rainy training image pairs and 100 clean/rainy testing image pairs. The new version contains 1800 clean/rainy training image pairs and 200 clean/rainy testing image pairs. All the methods assess their performances on original version instead of the new one. As a result, the metrics will be different when you retrain the models using the new one.**
+    * **Note that Rain100H provided by Yang et al. is updated in their [website](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html). Original version contains 1800 clean/rainy training image pairs and 100 clean/rainy testing image pairs. The new version contains 1800 clean/rainy training image pairs and 200 clean/rainy testing image pairs. All the methods assess their performances on original version instead of the new one. As a result, the metrics will be different when you retrain the models using the new one.**
   
   * [Rain100H_CVPR2017 old version]():
     * train set
