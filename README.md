@@ -39,8 +39,11 @@
 ### 3.2 Papers
 --------------
 ### 2021
+* ADN [paper][[code](https://github.com/nnUyi/ADN)][[website](https://github.com/nnUyi)]
+   * Yang, Youzhao etc. A Fast And Eefficient Network for Single Image Deraining. (ICASSP 2021)
+
 * DualGCN [[paper](https://xueyangfu.github.io/paper/2021/AAAI/Preprint.pdf)][[code](https://xueyangfu.github.io/paper/2021/AAAI/code.zip)][[web](https://xueyangfu.github.io)]
-   * Xueyang Fu, Qi Qi, etc. Rain Streak Removal via Dual Graph Convolutional Network. (AAAI 2021)
+   * Fu, Xueyang etc. Rain Streak Removal via Dual Graph Convolutional Network. (AAAI 2021)
    
 * IPT [[paper](https://arxiv.org/pdf/2012.00364.pdf)][[code]()][[web]()]
    * Chen, Hanting etc. Pre-Trained Image Processing Transformer. (Arxiv 2020)
