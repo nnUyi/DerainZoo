@@ -82,7 +82,7 @@
 * RDDAN [[paper](https://ieeexplore.ieee.org/abstract/document/9102945/)][[code](https://github.com/nnUyi/RDDAN)][[website](https://github.com/nnUyi)]
    * Yang, Youzhao et al. RDDAN: A Residual Dense Dilated Aggregated Network for Single Image Deraining. (2020 ICME)
    
-* DiG-CoM [paper][[code](https://github.com/nnUyi/DiG-CoM)][[website](https://github.com/nnUyi)]
+* DiG-CoM [[paper](https://www.computer.org/csdl/proceedings-article/icme/2020/09102800/1kwqO6toxQk)][[code](https://github.com/nnUyi/DiG-CoM)][[website](https://github.com/nnUyi)]
    * Ran, Wu; Yang, Youzhao et al. Single Image Rain Removal Boosting via Directional Gradient. (2020 ICME)
 
 * VID [[paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Du_Variational_Image_Deraining_WACV_2020_paper.pdf)][code][[web](https://csjunxu.github.io/)]
