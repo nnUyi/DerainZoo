@@ -79,7 +79,7 @@
 * Physical Model Guided ID [[paper](https://arxiv.org/pdf/2003.13242.pdf)][[code](https://supercong94.wixsite.com/supercong94)][[web](https://supercong94.wixsite.com/supercong94)]
    * Cong Wang et al. Physical Model Guided Deep Image Deraining. (2020 ICME)
 
-* RDDAN [paper][[code](https://github.com/nnUyi/RDDAN)][[website](https://github.com/nnUyi)]
+* RDDAN [[paper](https://ieeexplore.ieee.org/abstract/document/9102945/)][[code](https://github.com/nnUyi/RDDAN)][[website](https://github.com/nnUyi)]
    * Yang, Youzhao et al. RDDAN: A Residual Dense Dilated Aggregated Network for Single Image Deraining. (2020 ICME)
    
 * DiG-CoM [paper][[code](https://github.com/nnUyi/DiG-CoM)][[website](https://github.com/nnUyi)]
