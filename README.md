@@ -39,10 +39,10 @@
 ### 3.2 Papers
 --------------
 ### 2021
-* MPRNet [[paper](https://arxiv.org/abs/2102.02808)][[code](https://github.com/swz30/MPRNet)][[website](https://github.com/swz30/MPRNet)]
+* MPRNet [[paper](https://arxiv.org/abs/2102.02808)][[code](https://github.com/swz30/MPRNet)][[web](https://github.com/swz30)]
    * Zamir et al. Multi-Stage Progressive Image Restoration. (CVPR 2021)
 
-* ADN [paper][[code](https://github.com/nnUyi/ADN)][[website](https://github.com/nnUyi)]
+* ADN [paper][[code](https://github.com/nnUyi/ADN)][[web](https://github.com/nnUyi)]
    * Yang, Youzhao etc. A Fast And Eefficient Network for Single Image Deraining. (ICASSP 2021)
 
 * DualGCN [[paper](https://xueyangfu.github.io/paper/2021/AAAI/Preprint.pdf)][[code](https://xueyangfu.github.io/paper/2021/AAAI/code.zip)][[web](https://xueyangfu.github.io)]
