@@ -39,6 +39,9 @@
 ### 3.2 Papers
 --------------
 ### 2021
+* IDCL [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Image_De-Raining_via_Continual_Learning_CVPR_2021_paper.pdf)][[code]()][[web]()]
+   * Zhou, Man etc. Image De-raining via Continual Learning. (CVPR 2021)
+
 * DRG [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Semi-Supervised_Video_Deraining_With_Dynamical_Rain_Generator_CVPR_2021_paper.pdf)][[code](https://github.com/zsyOAOA/S2VD)][[web](https://github.com/zsyOAOA)]
    * Yue, Zongsheng etc. Semi-Supervised Video Deraining with Dynamical Rain Generator. (CVPR 2021)
 
