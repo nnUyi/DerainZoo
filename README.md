@@ -39,6 +39,12 @@
 ### 3.2 Papers
 --------------
 ### 2021
+* DerainRLNet [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Robust_Representation_Learning_With_Feedback_for_Single_Image_Deraining_CVPR_2021_paper.pdf)][[code](https://github.com/LI-Hao-SJTU/DerainRLNet)][[web](https://github.com/LI-Hao-SJTU)]
+   * Chen, Chenghao etc. Robust Representation Learning with Feedback for Single Image Deraining. (CVPR 2021)
+
+* VRGNet [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Rain_Generation_to_Rain_Removal_CVPR_2021_paper.pdf)][[code](https://github.com/hongwang01/VRGNet)][[web](https://github.com/hongwang01)]
+   * Wang, Hong etc. From Rain Generation to Rain Removal. (CVPR 2021)
+
 * IDCL [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Image_De-Raining_via_Continual_Learning_CVPR_2021_paper.pdf)][[code]()][[web]()]
    * Zhou, Man etc. Image De-raining via Continual Learning. (CVPR 2021)
 
