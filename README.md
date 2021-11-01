@@ -39,6 +39,8 @@
 ### 3.2 Papers
 --------------
 ### 2021
+* NR [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiao_Improving_De-Raining_Generalization_via_Neural_Reorganization_ICCV_2021_paper.pdf)][[code]][[web]]
+  * Fu, Xueyang etc. Improving De-raining Generalization via Neural Reorganization. (ICCV 2021)
 * DerainRLNet [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Robust_Representation_Learning_With_Feedback_for_Single_Image_Deraining_CVPR_2021_paper.pdf)][[code](https://github.com/LI-Hao-SJTU/DerainRLNet)][[web](https://github.com/LI-Hao-SJTU)]
    * Chen, Chenghao etc. Robust Representation Learning with Feedback for Single Image Deraining. (CVPR 2021)
 
