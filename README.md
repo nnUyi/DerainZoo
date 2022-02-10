@@ -21,6 +21,8 @@
 ### 3.1 Datasets
 ------------
 #### 3.1.1 Synthetic Datasets
+* JRARD dataset [[paper](https://arxiv.org/pdf/2103.07051.pdf)] [[dataset](https://github.com/HDCVLab/Joint-Rain-Streak-and-Raindrop-Removal)] (2021 TIP)
+* RainKITTI2012 and RainKITTI2015 [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720069.pdf)] [[dataset](https://github.com/HDCVLab/Stereo-Image-Deraining)] (2020 ECCV)
 * Rain12 [[paper](https://ieeexplore.ieee.org/document/7780668/)] [[dataset](http://yu-li.github.io/paper/li_cvpr16_rain.zip)] (2016 CVPR)
 * Rain100L_old_version [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)][[dataset](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)](2017 CVPR)
   * Rain100L_new_version [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)][[dataset](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)]
