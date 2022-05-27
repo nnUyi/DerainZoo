@@ -41,6 +41,9 @@
 ### 3.2 Papers
 --------------
 ### 2022
+* EPRRNet [[paper](https://arxiv.org/abs/2105.03830)][[code](https://github.com/HDCVLab/Stereo-Image-Deraining)][[web](https://zhangkaihao.github.io/)]
+   * Zhang, Kaihao etc. Beyond Monocular Deraining: Parallel Stereo Deraining Network Via Semantic Prior. (IJCV 2022)
+
 * ESTINet [[paper](https://arxiv.org/pdf/2103.12318.pdf)][[code](https://github.com/HDCVLab/Enhanced-Spatio-Temporal-Interaction-Learning-for-Video-Deraining)][[web](https://zhangkaihao.github.io/)]
    * Zhang, Kaihao etc. Enhanced spatio-temporal interaction learning for video deraining: A faster and better framework. (TPAMI 2022)
 
@@ -48,8 +51,6 @@
 * DAiAM [[paper](https://ieeexplore.ieee.org/abstract/document/9527103)][[code](https://github.com/HDCVLab/Joint-Rain-Streak-and-Raindrop-Removal)][[web](https://zhangkaihao.github.io/)]
    * Zhang, Kaihao etc. Dual Attention-In-Attention Model for Joint Rain Streak and Raindrop Removal. (TIP 2021)
 
-* EPRRNet [[paper](https://arxiv.org/abs/2105.03830)][[code](https://github.com/HDCVLab/Stereo-Image-Deraining)][[web](https://zhangkaihao.github.io/)]
-   * Zhang, Kaihao etc. Beyond Monocular Deraining: Parallel Stereo Deraining Network Via Semantic Prior. (Arxiv 2021)
 
 * NR [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiao_Improving_De-Raining_Generalization_via_Neural_Reorganization_ICCV_2021_paper.pdf)][code][web]
   * Fu, Xueyang etc. Improving De-raining Generalization via Neural Reorganization. (ICCV 2021)
